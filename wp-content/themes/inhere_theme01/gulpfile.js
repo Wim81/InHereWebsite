@@ -4,7 +4,7 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 
 //paths
-var sassFiles = 'scss/*.scss',
+var sassFiles = 'scss/**/*.scss',
     cssDest = '';
 
 gulp.task('sass', function(){
