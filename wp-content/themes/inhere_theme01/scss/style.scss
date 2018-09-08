@@ -9,7 +9,9 @@ Tags: inhere
 
 */
 
-@import 'reset';
+/* I took the reset out, as the bootstrap scss contains reboot already, and
+ since this reset would take away all bootstrap css as it needs to be included before my own */
+/* @import 'reset'; */
 @import 'components/nav';
 @import 'components/buttons';
 @import 'components/colors';
