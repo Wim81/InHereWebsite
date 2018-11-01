@@ -6,7 +6,7 @@
  * @license GPL 2.0
  */
 
-define( 'SITEORIGIN_THEME_VERSION', '1.5.1' );
+define( 'SITEORIGIN_THEME_VERSION', '1.6' );
 define( 'SITEORIGIN_THEME_JS_PREFIX', '.min' );
 define( 'SITEORIGIN_THEME_CSS_PREFIX', '.min' );
 
@@ -269,7 +269,7 @@ function siteorigin_north_scripts() {
 	) );
 
 	// jQuery FitVids.
-	if ( ! class_exists( 'Jetpack' ) && siteorigin_setting( 'responsive_fitvids' ) ) {
+	if ( ! class_exists( 'Jetpack' ) && ! ( function_exists( 'has_blocks' ) && has_blocks() ) && siteorigin_setting( 'responsive_fitvids' ) ) {
 		wp_enqueue_script( 'jquery-fitvids', get_template_directory_uri() . '/js/jquery.fitvids' . SITEORIGIN_THEME_JS_PREFIX . '.js', array( 'jquery' ), '1.1', true );
 	}
 
@@ -383,7 +383,9 @@ require get_template_directory() . '/inc/extras.php';
 /**
  * Load Jetpack compatibility file.
  */
-require get_template_directory() . '/inc/jetpack.php';
+if ( class_exists( 'Jetpack' ) ) {
+	require get_template_directory() . '/inc/jetpack.php';
+}
 
 /**
  * Load the theme settings file

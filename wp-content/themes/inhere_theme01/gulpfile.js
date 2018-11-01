@@ -2,36 +2,51 @@
 
 var gulp = require('gulp');
 var sass = require('gulp-sass');
-var postcss = require('gulp-postcss');
 var sourcemaps = require('gulp-sourcemaps');
+var browsersync = require('browser-sync').create();
+/*
+var postcss = require('gulp-postcss');
 var autoprefixer = require('autoprefixer');
+
+*/
 
 //paths
 var sassFiles = 'scss/**/*.scss';
-var cssDest = '';
+var cssDest = './';
 var bootstrapFiles = "bootstrap-4.1.3/scss/**/*.scss"
-var bootstrapCSS = '';
+var bootstrapCSS = './';
 
-gulp.task('sass', function(){
-    gulp.src(sassFiles)
-        .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
-        .pipe(gulp.dest(cssDest));
+gulp.task('sass', function () {
+    return gulp.src(sassFiles)
+        .pipe(sourcemaps.init())
+        .pipe(sass.sync().on('error', sass.logError))
+        .pipe(sourcemaps.write())
+        .pipe(gulp.dest(cssDest))
+        .pipe(browsersync.reload({stream: true}));
 });
 
-gulp.task('bootstrap', function() {
-    gulp.src(bootstrapFiles)
-        .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+gulp.task('bootstrap', function () {
+    return gulp.src(bootstrapFiles)
+        .pipe(sourcemaps.init())
+        .pipe(sass.sync().on('error', sass.logError))
+        .pipe(sourcemaps.write())
         .pipe(gulp.dest(bootstrapCSS));
 });
 
-gulp.task('watch',function() {
-    gulp.watch(sassFiles,['sass']);
-    gulp.watch(bootstrapFiles,['bootstrap']);
+gulp.task('browser-sync', function() {
+    browsersync.init({
+        server: false,
+        proxy: {
+            target: "localhost/W005_InHereSite/", // can be [virtual host, sub-directory, localhost with port]
+            ws: true // enables websockets
+        },
+    });
 });
 
+
 // Default task
-gulp.task('default', function () {
-    gulp.start('sass');
-    gulp.start('bootstrap');
-    gulp.start('watch');
+gulp.task('default', function() {
+    gulp.task('browser-sync');
+    gulp.watch(sassFiles, gulp.parallel(['sass']));
+    gulp.watch(bootstrapFiles,gulp.parallel(['bootstrap']));
 });

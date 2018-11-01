@@ -122,7 +122,7 @@ msgstr ""
 msgid "Top Bar Sidebar"
 msgstr ""
 
-#: header.php:92, inc/settings.php:1203
+#: header.php:92, inc/settings.php:1208
 msgid "Menu"
 msgstr ""
 
@@ -334,11 +334,11 @@ msgstr ""
 msgid "Sidebar Position"
 msgstr ""
 
-#: inc/settings.php:159, inc/settings.php:486
+#: inc/settings.php:159, inc/settings.php:491
 msgid "Right"
 msgstr ""
 
-#: inc/settings.php:160, inc/settings.php:485
+#: inc/settings.php:160, inc/settings.php:490
 msgid "Left"
 msgstr ""
 
@@ -350,7 +350,7 @@ msgstr ""
 msgid "Header layout"
 msgstr ""
 
-#: inc/settings.php:172, inc/settings.php:1268, inc/settings.php:1280
+#: inc/settings.php:172, inc/settings.php:1274, inc/settings.php:1286
 msgid "Default"
 msgstr ""
 
@@ -366,7 +366,7 @@ msgstr ""
 msgid "Text that goes above the main header."
 msgstr ""
 
-#: inc/settings.php:184, inc/settings.php:406
+#: inc/settings.php:184, inc/settings.php:411
 msgid "Background Color"
 msgstr ""
 
@@ -374,11 +374,11 @@ msgstr ""
 msgid "Background Top Color"
 msgstr ""
 
-#: inc/settings.php:194, inc/settings.php:411
+#: inc/settings.php:194, inc/settings.php:416
 msgid "Border Color"
 msgstr ""
 
-#: inc/settings.php:199, inc/settings.php:416
+#: inc/settings.php:199, inc/settings.php:421
 msgid "Border Width"
 msgstr ""
 
@@ -587,190 +587,198 @@ msgid "{sitename} and {year} are your site's name and current year"
 msgstr ""
 
 #: inc/settings.php:381
-msgid "Widget Title Color"
+msgid "Privacy Policy Link"
+msgstr ""
+
+#: inc/settings.php:382
+msgid "Display the Privacy Policy page link."
 msgstr ""
 
 #: inc/settings.php:386
-msgid "Text Color"
+msgid "Widget Title Color"
 msgstr ""
 
 #: inc/settings.php:391
-msgid "Link Color"
+msgid "Text Color"
 msgstr ""
 
 #: inc/settings.php:396
-msgid "Link Hover Color"
+msgid "Link Color"
 msgstr ""
 
 #: inc/settings.php:401
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/settings.php:406
 msgid "Constrain"
 msgstr ""
 
-#: inc/settings.php:402
+#: inc/settings.php:407
 msgid "Constrain the footer width"
 msgstr ""
 
-#: inc/settings.php:421
+#: inc/settings.php:426
 msgid "Top Padding"
 msgstr ""
 
-#: inc/settings.php:426
+#: inc/settings.php:431
 msgid "Side Padding"
 msgstr ""
 
-#: inc/settings.php:427
+#: inc/settings.php:432
 msgid "Only applied when footer width is unconstrained."
 msgstr ""
 
-#: inc/settings.php:432
+#: inc/settings.php:437
 msgid "Top Margin"
 msgstr ""
 
-#: inc/settings.php:446
+#: inc/settings.php:451
 msgid "WooCommerce"
 msgstr ""
 
-#: inc/settings.php:451
+#: inc/settings.php:456
 msgid "Number of Products per Row"
 msgstr ""
 
-#: inc/settings.php:452
+#: inc/settings.php:457
 msgid "Set the number of products per row on shop archive pages."
 msgstr ""
 
-#: inc/settings.php:460
+#: inc/settings.php:465
 msgid "Equalize Product Rows"
 msgstr ""
 
-#: inc/settings.php:461
+#: inc/settings.php:466
 msgid "Equalize product row height on shop archive pages."
 msgstr ""
 
-#: inc/settings.php:466
+#: inc/settings.php:471
 msgid "Display Cart"
 msgstr ""
 
-#: inc/settings.php:467
+#: inc/settings.php:472
 msgid "Display WooCommerce cart in the main menu."
 msgstr ""
 
-#: inc/settings.php:472
+#: inc/settings.php:477
 msgid "Display Cart in Checkout"
 msgstr ""
 
-#: inc/settings.php:473
+#: inc/settings.php:478
 msgid "Display WooCommerce cart in the main menu on cart and checkout page."
 msgstr ""
 
-#: inc/settings.php:478
+#: inc/settings.php:483
 msgid "Display Quick View button"
 msgstr ""
 
-#: inc/settings.php:483
+#: inc/settings.php:488
 msgid "Shop Sidebar Position"
 msgstr ""
 
-#: inc/settings.php:487
+#: inc/settings.php:492
 msgid "None"
 msgstr ""
 
-#: inc/settings.php:1213
+#: inc/settings.php:1218
 msgid "Continue reading"
 msgstr ""
 
-#: inc/settings.php:1224
+#: inc/settings.php:1229
 msgid "Copyright &copy; {year} {sitename}"
 msgstr ""
 
-#: inc/settings.php:1266
+#: inc/settings.php:1272
 msgid "Page Layout"
 msgstr ""
 
-#: inc/settings.php:1269
+#: inc/settings.php:1275
 msgid "No Sidebar"
 msgstr ""
 
-#: inc/settings.php:1270
+#: inc/settings.php:1276
 msgid "Full Width"
 msgstr ""
 
-#: inc/settings.php:1271
+#: inc/settings.php:1277
 msgid "Full Width, With Sidebar"
 msgstr ""
 
-#: inc/settings.php:1272
+#: inc/settings.php:1278
 msgid "Stripped"
 msgstr ""
 
-#: inc/settings.php:1278
+#: inc/settings.php:1284
 msgid "Menu Position"
 msgstr ""
 
-#: inc/settings.php:1281
+#: inc/settings.php:1287
 msgid "Overlaps Content"
 msgstr ""
 
-#: inc/settings.php:1287
+#: inc/settings.php:1293
 msgid "Page Title"
 msgstr ""
 
-#: inc/settings.php:1288, inc/settings.php:1297
+#: inc/settings.php:1294, inc/settings.php:1303
 msgid "display"
 msgstr ""
 
-#: inc/settings.php:1289
+#: inc/settings.php:1295
 msgid "Display the page title on this page."
 msgstr ""
 
-#: inc/settings.php:1296
+#: inc/settings.php:1302
 msgid "Page Featured Image"
 msgstr ""
 
-#: inc/settings.php:1298
+#: inc/settings.php:1304
 msgid "Display the page featured image on this page."
 msgstr ""
 
-#: inc/settings.php:1304
+#: inc/settings.php:1310
 msgid "Masthead Bottom Margin"
 msgstr ""
 
-#: inc/settings.php:1305, inc/settings.php:1312
+#: inc/settings.php:1311, inc/settings.php:1318
 msgid "enable"
 msgstr ""
 
-#: inc/settings.php:1306
+#: inc/settings.php:1312
 msgid "Include the margin below the masthead (top area) of your site."
 msgstr ""
 
-#: inc/settings.php:1311
+#: inc/settings.php:1317
 msgid "Footer Top Margin"
 msgstr ""
 
-#: inc/settings.php:1313
+#: inc/settings.php:1319
 msgid "Include the margin above your footer."
 msgstr ""
 
-#: inc/settings.php:1318
+#: inc/settings.php:1324
 msgid "Hide Masthead"
 msgstr ""
 
-#: inc/settings.php:1319, inc/settings.php:1326
+#: inc/settings.php:1325, inc/settings.php:1332
 msgid "hide"
 msgstr ""
 
-#: inc/settings.php:1320
+#: inc/settings.php:1326
 msgid "Hide the masthead on this page."
 msgstr ""
 
-#: inc/settings.php:1325
+#: inc/settings.php:1331
 msgid "Hide Footer Widgets"
 msgstr ""
 
-#: inc/settings.php:1327
+#: inc/settings.php:1333
 msgid "Hide the footer widgets on this page."
 msgstr ""
 
-#: inc/settings.php:1411
+#: inc/settings.php:1417
 msgid "SiteOrigin North is a simple, customizable WordPress theme. Check out this video to get an idea of what it has to offer."
 msgstr ""
 
@@ -957,72 +965,68 @@ msgstr ""
 msgid "Our dedicated support team is ready to help you over on our %sfree support forums%s."
 msgstr ""
 
-#: woocommerce/cart/cart.php:37, woocommerce/cart/cart.php:69
+#: woocommerce/cart/cart.php:33, woocommerce/cart/cart.php:65
 msgid "Product"
 msgstr ""
 
-#: woocommerce/cart/cart.php:38, woocommerce/cart/cart.php:89
+#: woocommerce/cart/cart.php:34, woocommerce/cart/cart.php:85
 msgid "Quantity"
 msgstr ""
 
-#: woocommerce/cart/cart.php:39, woocommerce/cart/cart.php:106
+#: woocommerce/cart/cart.php:35, woocommerce/cart/cart.php:102
 msgid "Price"
 msgstr ""
 
-#: woocommerce/cart/cart.php:40, woocommerce/cart/cart.php:112
+#: woocommerce/cart/cart.php:36, woocommerce/cart/cart.php:108
 msgid "Total"
 msgstr ""
 
-#: woocommerce/cart/cart.php:84
+#: woocommerce/cart/cart.php:80
 msgid "Available on backorder"
 msgstr ""
 
-#: woocommerce/cart/cart.php:121
+#: woocommerce/cart/cart.php:117
 msgid "delete"
 msgstr ""
 
-#: woocommerce/cart/cart.php:123, woocommerce/cart/mini-cart.php:57, woocommerce/cart/mini-cart.php:77
+#: woocommerce/cart/cart.php:119, woocommerce/cart/mini-cart.php:58, woocommerce/cart/mini-cart.php:79
 msgid "Remove this item"
 msgstr ""
 
-#: woocommerce/cart/cart.php:144
+#: woocommerce/cart/cart.php:140
 msgid "Coupon"
 msgstr ""
 
-#: woocommerce/cart/cart.php:145
+#: woocommerce/cart/cart.php:141
 msgid "Coupon code"
 msgstr ""
 
-#: woocommerce/cart/cart.php:146, woocommerce/cart/cart.php:146
+#: woocommerce/cart/cart.php:142, woocommerce/cart/cart.php:142
 msgid "Apply coupon"
 msgstr ""
 
-#: woocommerce/cart/cart.php:151
+#: woocommerce/cart/cart.php:147
 msgid "Continue Shopping"
 msgstr ""
 
-#: woocommerce/cart/cart.php:152
+#: woocommerce/cart/cart.php:148
 msgid "Update Cart"
 msgstr ""
 
-#: woocommerce/cart/cart.php:153, woocommerce/cart/mini-cart.php:107
+#: woocommerce/cart/cart.php:149, woocommerce/cart/mini-cart.php:109
 msgid "Checkout"
 msgstr ""
 
-#: woocommerce/cart/mini-cart.php:93
+#: woocommerce/cart/mini-cart.php:95
 msgid "No products in the cart."
 msgstr ""
 
-#: woocommerce/cart/mini-cart.php:101
+#: woocommerce/cart/mini-cart.php:103
 msgid "Subtotal"
 msgstr ""
 
-#: woocommerce/cart/mini-cart.php:106
+#: woocommerce/cart/mini-cart.php:108
 msgid "View Cart"
-msgstr ""
-
-#: woocommerce/checkout/form-checkout.php:28
-msgid "You must be logged in to checkout."
 msgstr ""
 
 #: woocommerce/single-product/meta-undertitle.php:20
