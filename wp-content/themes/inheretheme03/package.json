@@ -1,0 +1,33 @@
+{
+  "name": "inheretheme03",
+  "version": "1.0.0",
+  "description": "wp theme with gulp and iotacss",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "iotacss-base-initialize": "^1.0.1",
+    "iotacss-components-modal": "^1.0.3",
+    "iotacss-components-button": "^1.0.3",
+    "iotacss-objs-grid": "^1.0.4",
+    "iotacss-settings-core": "^1.0.2",
+    "iotacss-tools-core": "^1.0.9"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.3.1",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.7",
+    "gulp": "github:gulpjs/gulp",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ergens"
+  },
+  "author": "Wim Verpoorten",
+  "license": "ISC"
+}
