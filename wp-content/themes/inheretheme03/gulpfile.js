@@ -7,6 +7,7 @@ var cssnano = require("cssnano");
 var sourcemaps = require("gulp-sourcemaps");
 var browserSync = require("browser-sync").create();
 var rename = require("gulp-rename");
+var watch = require("gulp-watch");
 
 // Definieer hier de locaties
 var paths = {
@@ -55,7 +56,7 @@ function reload() {
 }
 
 
-function watch(){
+function watcher(){
     browserSync.init({
         // You can tell browserSync to use this directory and serve it as a mini-server
         server: {
@@ -67,9 +68,13 @@ function watch(){
     });
     // gulp.watch takes in the location of the files to watch for changes
     // and the name of the function we want to run on change
-    gulp.watch(paths.styles.src, style);
-    gulp.watch(paths.styles.html, reload);
+    //gulp.watch(paths.styles.src, style);
+    //gulp.watch(paths.styles.html, reload);
+    watch(paths.styles.src, style);
+    watch(paths.styles.html, reload);
 }
 
 // Don't forget to expose the task!
-exports.watch = watch;
+exports.watch = watcher;
+
+// note to self: watcher draait al wel, maar pikt changes nog niet op. Zie github voor werkende versie, maar die had issues wanneer originele bestand er nog niet was, en dat zou bij deze moeten in orde zijn zodra het werkt. Nog terug op te pikken
