@@ -8,15 +8,27 @@ var sourcemaps = require("gulp-sourcemaps");
 var browserSync = require("browser-sync").create();
 var rename = require("gulp-rename");
 var watch = require("gulp-watch");
+var jslint = require("gulp-jslint");
+var uglify = require("gulp-uglify");
+var imagemin = require("gulp-imagemin");
 
 // Definieer hier de locaties
 var paths = {
     styles: {
         // By using styles/**/*.sass we're telling gulp to check all folders for any sass file
-        src: "src/**/*.scss",
+        src: "src/scss/**/*.scss",
         // Compiled files will end up in whichever folder it's found in (partials are not compiled)
-        dest: "./",
-        html: "./*.html"
+        dest: "./"
+    },
+    html: "./*.html",
+    scripts: {
+        src: "src/js/**/*.js",
+        dest: "./"
+    },
+    images: {
+        // later nog toevoegen: png & gif, maar test al eens met jpg
+        src: "src/img/**/*.{jpg,png,gif,svg}",
+        dest: "img/"
     }
 };
 
@@ -50,6 +62,35 @@ function style() {
 // $ gulp style
 exports.style = style;
 
+// JS task
+function script() {
+    return (
+        gulp
+            .src(paths.scripts.src)
+            .pipe(sourcemaps.init())
+            .pipe(jslint())
+            .pipe(uglify())
+            .pipe(sourcemaps.write())
+            .pipe(gulp.dest(paths.scripts.dest))
+            .pipe(browserSync.stream())
+    );
+}
+
+exports.script = script;
+
+// images task
+function images() {
+    return (
+        gulp
+            .src(paths.images.src)
+            .pipe(imagemin({verbose: true}))
+            .pipe(gulp.dest(paths.images.dest))
+            .pipe(browserSync.stream())
+    );
+}
+
+exports.images = images;
+
 // A simple task to reload the page
 function reload() {
     browserSync.reload();
@@ -66,15 +107,16 @@ function watcher(){
         // You can use the proxy setting to proxy that instead
         // proxy: "yourlocal.dev"
     });
+    style();
+    script();
+    images();
     // gulp.watch takes in the location of the files to watch for changes
     // and the name of the function we want to run on change
-    //gulp.watch(paths.styles.src, style);
-    //gulp.watch(paths.styles.html, reload);
     watch(paths.styles.src, style);
-    watch(paths.styles.html, reload);
+    watch(paths.html, reload);
+    watch(paths.scripts.src, script);
+    watch(paths.images.src, images);
 }
 
 // Don't forget to expose the task!
 exports.watch = watcher;
-
-// note to self: watcher draait al wel, maar pikt changes nog niet op. Zie github voor werkende versie, maar die had issues wanneer originele bestand er nog niet was, en dat zou bij deze moeten in orde zijn zodra het werkt. Nog terug op te pikken
