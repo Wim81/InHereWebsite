@@ -26,7 +26,6 @@ var paths = {
         dest: "./"
     },
     images: {
-        // later nog toevoegen: png & gif, maar test al eens met jpg
         src: "src/img/**/*.{jpg,png,gif,svg}",
         dest: "img/"
     }
