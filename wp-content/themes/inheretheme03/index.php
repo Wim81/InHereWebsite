@@ -22,6 +22,8 @@
 
 <img src="img/f1_01.jpg" alt="wowowowow">
 
+<p>source: index.php</p>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="script.js"></script>
 </body>

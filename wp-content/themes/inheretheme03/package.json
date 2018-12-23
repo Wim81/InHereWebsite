@@ -9,7 +9,7 @@
     "iotacss-components-modal": "^1.0.3",
     "iotacss-objs-grid": "^1.0.4",
     "iotacss-settings-core": "^1.0.2",
-    "iotacss-tools-core": "^1.0.9",
+    "iotacss-tools-core": "^1.0.9"
   },
   "devDependencies": {
     "autoprefixer": "^9.3.1",
