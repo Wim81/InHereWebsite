@@ -1,0 +1,24 @@
+.home {
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url('img/inhere_home_hero.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.c-home {
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(29, 29, 26, 0.75);
+  background-image: linear-gradient(to bottom, rgba(37, 128, 195, 1), rgba(37, 128, 195, 0));
+}
