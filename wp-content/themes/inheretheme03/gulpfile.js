@@ -99,12 +99,12 @@ function reload() {
 function watcher(){
     browserSync.init({
         // You can tell browserSync to use this directory and serve it as a mini-server
-        server: {
-            baseDir: "localhost/W005_InHereSite/"
-        }
+        /*server: {
+            baseDir: "http://localhost/W005_InHereSite"
+        }*/
         // If you are already serving your website locally using something like apache
         // You can use the proxy setting to proxy that instead
-        // proxy: "yourlocal.dev"
+        proxy: "http://localhost/W005_InHereSite"
     });
     style();
     script();
