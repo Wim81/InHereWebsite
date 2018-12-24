@@ -23,10 +23,6 @@
 }
 
 .c-home__content {
-  background-image: url('img/inhere_home_gradient.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
   z-index: 2;
   width: 80vw;
   max-width: 600px;
@@ -35,4 +31,9 @@
   margin: 0 auto;
   position: relative;
   top: 40vh;
+}
+
+.c-home__content--gradient {
+  width: 100%;
+  height: 100%;
 }
