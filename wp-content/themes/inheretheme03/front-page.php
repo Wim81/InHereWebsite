@@ -2,7 +2,9 @@
 
 <div class="c-home">
 
-    <p>source: front-page.php</p>
+    <div class="c-home__content">
+
+    </div>
 
 </div>
 
