@@ -76,15 +76,19 @@
   @media(min-width: 640px) {
     &--buttons {
       flex-direction: row;
+      justify-content: center;
       width: 100%;
+      margin-top: 10px;
     }
 
     &--btn1, &--btn2 {
-      height: calc(100vw / 9);
+      height: 60px;
+      width: 34%;
     }
 
     &--btn1 {
       background-image: url('img/CTA_desktop_1_normal.png');
+      margin-right: 20px;
 
       &:hover {
         background-image: url('img/CTA_desktop_1_hover.png');
@@ -93,6 +97,8 @@
 
     &--btn2 {
       background-image: url('img/CTA_desktop_2_normal.png');
+      margin-top: 0;
+      margin-left: 20px;
 
       &:hover {
         background-image: url('img/CTA_desktop_2_hover.png');
@@ -101,8 +107,10 @@
   }
 }
 
-.c-home__content--logo {
-
+@media(min-width: 1400px) {
+  .c-home__content {
+    margin-top: 10vw;
+  }
 }
 
 
