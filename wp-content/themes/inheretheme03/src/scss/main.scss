@@ -16,6 +16,9 @@ Theme for the InHere site
 
 // bestand moet nog uitgebreid worden met beschikbare add-ons, maar voor nu volstaat dit
 
+@import "partials/fonts";
+@import "partials/color";
 
 //Components
 @import "partials/components/home";
+@import "partials/components/nav";

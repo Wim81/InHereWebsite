@@ -26,7 +26,7 @@
             </p>
         </div>
 
-        <nav id="site-navigation" class="main-navigation" role="navigation">
+        <nav id="site-navigation" class="main-navigation c-nav--top" role="navigation">
             <?php
             $args = [
                 'theme_location'        =>  'top-nav'
