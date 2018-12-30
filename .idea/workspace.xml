@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2c27220b-d109-47e2-b1d0-74287c919572" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme03/src/scss/partials/components/_navigation.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme03/src/scss/partials/components/_navigation.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme03/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme03/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,8 +60,8 @@
       <file leaf-file-name="_navigation.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme03/src/scss/partials/components/_navigation.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="73" column="32" lean-forward="false" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+            <state relative-caret-position="174">
+              <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -485,12 +484,12 @@
       <workItem from="1545668881639" duration="10690000" />
       <workItem from="1545853438569" duration="3379000" />
       <workItem from="1545932980036" duration="5477000" />
-      <workItem from="1546172061271" duration="5046000" />
+      <workItem from="1546172061271" duration="5503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80814000" />
+    <option name="totallyTimeSpent" value="81271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1720" y="-8" width="1552" height="850" extended-state="6" />
@@ -802,8 +801,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme03/src/scss/partials/components/_navigation.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="73" column="32" lean-forward="false" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+        <state relative-caret-position="174">
+          <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
           <folding />
         </state>
       </provider>
