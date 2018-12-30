@@ -22,6 +22,26 @@
           font-family: ihFont;
           font-size: 20px;
           text-transform: uppercase;
+          transition: all 0.3s ease-in;
+          border-bottom: 4px solid transparent;
+          padding-bottom: 5px;
+        }
+
+        a:hover {
+          color: $lightorange;
+          border-bottom: 4px solid $lightorange;
+        }
+      }
+    }
+  }
+}
+
+@media(max-width: 750px) {
+  .c-nav--top {
+    .menu-top-navigation-container {
+      ul {
+        li {
+          margin-left: 25px;
         }
       }
     }
@@ -49,6 +69,10 @@ body #responsive-menu-container {
         .responsive-menu-item-link {
           background-color: transparent;
           text-transform: uppercase;
+
+          &:hover {
+            color: $lightorange;
+          }
         }
       }
     }
@@ -57,4 +81,16 @@ body #responsive-menu-container {
       display: none;
     }
   }
+}
+
+body button#responsive-menu-button .responsive-menu-inner,
+body button#responsive-menu-button .responsive-menu-inner:before,
+body button#responsive-menu-button .responsive-menu-inner:after {
+  transition: all 0.3s ease-in;
+}
+
+body button#responsive-menu-button:hover .responsive-menu-inner,
+body button#responsive-menu-button:hover .responsive-menu-inner:before,
+body button#responsive-menu-button:hover .responsive-menu-inner:after {
+  background-color: $lightorange;
 }
