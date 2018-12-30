@@ -1,0 +1,60 @@
+.c-nav--top {
+  z-index: 10;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+
+  .menu-top-navigation-container {
+
+    ul {
+      display: flex;
+
+      li {
+        list-style: none;
+        margin-left: 50px;
+
+        a:link,
+        a:visited,
+        a:hover,
+        a:active {
+          color: $white;
+          text-decoration: none;
+          font-family: ihFont;
+          font-size: 20px;
+          text-transform: uppercase;
+        }
+      }
+    }
+  }
+}
+
+body button#responsive-menu-button,
+body button#responsive-menu-button:hover,
+.responsive-menu-open body button#responsive-menu-button,
+.responsive-menu-open body button#responsive-menu-button:hover {
+  background-color: transparent;
+}
+
+body #responsive-menu-container {
+  background-color: transparent;
+
+  #responsive-menu-wrapper {
+    background-color: transparent;
+
+    #responsive-menu {
+      background-color: transparent;
+
+      .menu-item {
+
+        .responsive-menu-item-link {
+          background-color: transparent;
+          text-transform: uppercase;
+        }
+      }
+    }
+
+    #responsive-menu-search-box {
+      display: none;
+    }
+  }
+}
