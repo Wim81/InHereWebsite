@@ -1,0 +1,97 @@
+.c-nav--top {
+  z-index: 10;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+
+  .menu-top-navigation-container {
+
+    ul {
+      display: flex;
+
+      li {
+        list-style: none;
+        margin-left: 50px;
+
+        a:link,
+        a:visited,
+        a:hover,
+        a:active {
+          color: $white;
+          text-decoration: none;
+          font-family: ihFont;
+          font-size: 20px;
+          text-transform: uppercase;
+          transition: all 0.3s ease-in;
+          border-bottom: 4px solid transparent;
+          padding-bottom: 5px;
+        }
+
+        a:hover {
+          color: $lightorange;
+          border-bottom: 4px solid $lightorange;
+        }
+      }
+    }
+  }
+}
+
+@media(max-width: 750px) {
+  .c-nav--top {
+    .menu-top-navigation-container {
+      ul {
+        li {
+          margin-left: 25px;
+        }
+      }
+    }
+  }
+}
+
+body button#responsive-menu-button,
+body button#responsive-menu-button:hover,
+.responsive-menu-open body button#responsive-menu-button,
+.responsive-menu-open body button#responsive-menu-button:hover {
+  background-color: transparent;
+}
+
+body #responsive-menu-container {
+  background-color: transparent;
+
+  #responsive-menu-wrapper {
+    background-color: transparent;
+
+    #responsive-menu {
+      background-color: transparent;
+      padding-top: 80px;
+
+      .menu-item {
+
+        .responsive-menu-item-link {
+          background-color: transparent;
+          text-transform: uppercase;
+
+          &:hover {
+            color: $lightorange;
+          }
+        }
+      }
+    }
+
+    #responsive-menu-search-box {
+      display: none;
+    }
+  }
+}
+
+body button#responsive-menu-button .responsive-menu-inner,
+body button#responsive-menu-button .responsive-menu-inner:before,
+body button#responsive-menu-button .responsive-menu-inner:after {
+  transition: all 0.3s ease-in;
+}
+
+body button#responsive-menu-button:hover .responsive-menu-inner,
+body button#responsive-menu-button:hover .responsive-menu-inner:before,
+body button#responsive-menu-button:hover .responsive-menu-inner:after {
+  background-color: $lightorange;
+}

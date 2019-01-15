@@ -1,0 +1,116 @@
+.home {
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('img/inhere_home_hero.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: hidden;
+}
+
+.c-home {
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(29, 29, 26, 0.75);
+  background-image: linear-gradient(to bottom, rgba(37, 128, 195, 1), rgba(37, 128, 195, 0));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.c-home__content {
+  z-index: 2;
+  width: 80vw;
+  max-width: 600px;
+  margin-top: 20vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &--logo {
+    width: 75%;
+  }
+
+  &--buttons {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    font-size: 0;
+    margin-top: 20px;
+  }
+
+  &--btn1, &--btn2 {
+    display: block;
+    width: 100%;
+    height: calc(100vw / 9);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    transition: all 0.2s ease-in;
+  }
+
+  &--btn1 {
+    background-image: url('img/CTA_mobile_1_normal.png');
+
+    &:hover {
+      background-image: url('img/CTA_mobile_1_hover.png');
+    }
+  }
+
+  &--btn2 {
+    background-image: url('img/CTA_mobile_2_normal.png');
+    margin-top: calc(2vw);
+
+    &:hover {
+      background-image: url('img/CTA_mobile_2_hover.png');
+    }
+  }
+
+  @media(min-width: 640px) {
+    &--buttons {
+      flex-direction: row;
+      justify-content: center;
+      width: 100%;
+      margin-top: 10px;
+    }
+
+    &--btn1, &--btn2 {
+      height: 60px;
+      width: 34%;
+    }
+
+    &--btn1 {
+      background-image: url('img/CTA_desktop_1_normal.png');
+      margin-right: 20px;
+
+      &:hover {
+        background-image: url('img/CTA_desktop_1_hover.png');
+      }
+    }
+
+    &--btn2 {
+      background-image: url('img/CTA_desktop_2_normal.png');
+      margin-top: 0;
+      margin-left: 20px;
+
+      &:hover {
+        background-image: url('img/CTA_desktop_2_hover.png');
+      }
+    }
+  }
+}
+
+@media(min-width: 1400px) {
+  .c-home__content {
+    margin-top: 10vw;
+  }
+}
+
+
