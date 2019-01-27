@@ -14,18 +14,10 @@
 <div id="page">
 
     <header id="masthead" class="site-header" role="banner">
-        <!--
-        <div class="site-branding">
-            <p class="site-title">
-                <a href="<?php // echo esc_url( home_url( '/' ) ); ?>" rel="home">
-                    <?php // bloginfo('name'); ?>
-                </a>
-            </p>
-            <p class="site-description">
-                <?php // bloginfo( 'description' ); ?>
-            </p>
-        </div>
-        -->
+
+        <a href="<?php echo get_site_url(); ?>/index.php" class="header-logo-link">
+            <img src="<?php echo get_bloginfo('template_url'); ?>/img/inhere_header_logo.png" alt="site-header-logo" class="header-logo">
+        </a>
 
         <nav id="site-navigation" class="main-navigation c-nav--top" role="navigation">
             <?php
