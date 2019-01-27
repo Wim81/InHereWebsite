@@ -1,4 +1,4 @@
-<?php get_header('front-page'); ?>
+<?php get_header(); ?>
 
 <div class="c-home">
 

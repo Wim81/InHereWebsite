@@ -2,469 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c27220b-d109-47e2-b1d0-74287c919572" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/settings-addons.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/form.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/mascot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/mascot@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/waves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/waves@x2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/select300/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/select300/select300.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/af.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/az.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/bs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/dsb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/eu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/hsb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/hy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/is.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/km.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/ko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/mk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/ms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/ps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/pt-BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/sr-Cyrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/sr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/vi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/zh-CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/i18n/zh-TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/select300.full.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/pages/network-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/pages/tracking.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/settings/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/settings/register-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/settings/settings-api.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/settings/tab-general.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/settings/tab-status.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/settings/tab-support.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/settings/tab-tracking.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/welcome.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/lite/includes/admin/settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/lite/includes/admin/tab-support.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/lite/includes/install.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/js/siteorigin-panels-297.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/js/siteorigin-panels-297.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/js/styling-297.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/js/styling-297.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-fr_FR.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-fr_FR.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ru_RU.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ru_RU.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/logo.png" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/logo@2x.png" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/logo@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/icons.eot" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/icons.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/icons.otf" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/icons.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/icons.ttf" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/icons.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/icons.woff" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/icons.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/icons.woff2" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/footer-front-page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/ac-yoast-seo-acf-content-analysis.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/ac-yoast-seo-acf-content-analysis.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/assets.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/assets.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/configuration/configuration.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/configuration/configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/configuration/string-store.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/configuration/string-store.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/dependencies/dependency-acf.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/dependencies/dependency-acf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/dependencies/dependency-interface.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/dependencies/dependency-interface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/dependencies/dependency-yoast-seo.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/dependencies/dependency-yoast-seo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/registry.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/registry.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/requirements.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/requirements.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/collect/collect.js" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/collect/collect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper-store.js" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper-store.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.text.js" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.text.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.textarea.js" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.textarea.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/yoast-acf-analysis.js" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/yoast-acf-analysis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/data/test-data-loader-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/data/test-data-loader-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/phpunit.xml.dist" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/phpunit.xml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Configuration/configuration-test.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Configuration/configuration-test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Configuration/string-store-test.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Configuration/string-store-test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Dependencies/acf-dependency-test.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Dependencies/acf-dependency-test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Dependencies/yoast-seo-dependency-test.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Dependencies/yoast-seo-dependency-test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Doubles/failing-dependency.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Doubles/failing-dependency.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Doubles/passing-dependency.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Doubles/passing-dependency.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/assets-test.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/assets-test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/main-test.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/main-test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/registry-test.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/registry-test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/requirements-test.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/requirements-test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/autoload.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/autoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/autoload_52.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/autoload_52.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/ClassLoader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_real.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_real_52.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_real_52.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_static.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/yoast-acf-analysis.php" afterPath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/yoast-acf-analysis.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/acf.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/acf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-dark.css" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-dark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-field-group.css" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-field-group.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-global.css" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-global.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-input.css" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-input.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/js/acf-field-group.js" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/js/acf-field-group.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/js/acf-input.js" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/js/acf-input.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/js/acf-input.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/js/acf-input.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/admin-field-groups.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/admin-field-groups.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/tools/class-acf-admin-tool-export.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/tools/class-acf-admin-tool-export.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/tools/class-acf-admin-tool-import.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/tools/class-acf-admin-tool-import.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/ajax/class-acf-ajax-check-screen.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/ajax/class-acf-ajax-check-screen.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-value.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-value.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-user.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-user.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-gutenberg.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-gutenberg.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-fr_FR.po" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-fr_FR.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ru_RU.po" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ru_RU.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/README.md" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/admin.css" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/admin.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/admin.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/bootstrap-prefixed.css" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/bootstrap-prefixed.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/bootstrap-prefixed.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/css/bootstrap-prefixed.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ad.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ad.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ae.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ae.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/af.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/af.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ag.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ag.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ai.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ai.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/al.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/al.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/am.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/am.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ao.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ao.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/aq.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/aq.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ar.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ar.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/as.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/as.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/at.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/at.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/au.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/au.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/aw.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/aw.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ax.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ax.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/az.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/az.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ba.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ba.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bb.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bb.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bd.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bd.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/be.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/be.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bf.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bf.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bg.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bg.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bh.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bh.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bi.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bi.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bj.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bj.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bl.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bl.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bn.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bo.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bo.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bq.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bq.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/br.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/br.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bs.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bs.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bt.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bt.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bv.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bv.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bw.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bw.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/by.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/by.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bz.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/bz.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ca.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ca.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cc.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cc.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cd.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cd.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cf.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cf.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cg.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cg.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ch.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ch.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ci.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ci.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ck.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ck.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cl.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cl.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cn.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/co.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/co.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cu.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cu.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cv.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cv.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cw.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cw.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cx.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cx.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cy.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cy.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cz.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/cz.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/de.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/de.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/dj.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/dj.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/dk.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/dk.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/dm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/dm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/do.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/do.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/dz.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/dz.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ec.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ec.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ee.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ee.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/eg.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/eg.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/eh.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/eh.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/er.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/er.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/es-ct.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/es-ct.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/es.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/es.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/et.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/et.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/eu.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/eu.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fi.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fi.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fj.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fj.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fk.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fk.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fo.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fo.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/fr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ga.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ga.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gb-eng.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gb-eng.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gb-nir.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gb-nir.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gb-sct.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gb-sct.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gb-wls.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gb-wls.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gb.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gb.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gd.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gd.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ge.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ge.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gf.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gf.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gg.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gg.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gh.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gh.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gi.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gi.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gl.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gl.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gn.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gp.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gp.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gq.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gq.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gs.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gs.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gt.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gt.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gu.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gu.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gw.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gw.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gy.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/gy.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/hk.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/hk.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/hm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/hm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/hn.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/hn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/hr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/hr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ht.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ht.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/hu.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/hu.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/id.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/id.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ie.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ie.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/il.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/il.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/im.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/im.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/in.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/in.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/io.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/io.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/iq.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/iq.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ir.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ir.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/is.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/is.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/it.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/it.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/je.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/je.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/jm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/jm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/jo.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/jo.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/jp.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/jp.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ke.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ke.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kg.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kg.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kh.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kh.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ki.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ki.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/km.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/km.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kn.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kp.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kp.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kw.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kw.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ky.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ky.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kz.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/kz.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/la.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/la.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lb.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lb.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lc.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lc.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/li.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/li.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lk.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lk.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ls.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ls.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lt.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lt.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lu.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lu.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lv.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/lv.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ly.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ly.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ma.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ma.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mc.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mc.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/md.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/md.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/me.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/me.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mf.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mf.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mg.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mg.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mh.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mh.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mk.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mk.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ml.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ml.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mn.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mo.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mo.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mp.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mp.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mq.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mq.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ms.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ms.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mt.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mt.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mu.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mu.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mv.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mv.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mw.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mw.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mx.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mx.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/my.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/my.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mz.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/mz.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/na.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/na.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nc.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nc.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ne.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ne.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nf.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nf.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ng.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ng.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ni.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ni.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nl.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nl.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/no.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/no.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/np.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/np.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nu.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nu.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nz.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/nz.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/om.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/om.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pa.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pa.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pe.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pe.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pf.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pf.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pg.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pg.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ph.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ph.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pk.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pk.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pl.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pl.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pn.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ps.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ps.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pt.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pt.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pw.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/pw.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/py.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/py.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/qa.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/qa.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/re.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/re.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ro.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ro.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/rs.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/rs.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ru.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ru.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/rw.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/rw.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sa.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sa.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sb.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sb.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sc.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sc.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sd.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sd.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/se.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/se.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sg.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sg.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sh.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sh.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/si.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/si.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sj.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sj.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sk.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sk.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sl.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sl.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sn.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/so.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/so.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ss.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ss.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/st.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/st.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sv.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sv.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sx.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sx.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sy.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sy.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sz.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/sz.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tc.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tc.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/td.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/td.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tf.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tf.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tg.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tg.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/th.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/th.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tj.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tj.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tk.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tk.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tl.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tl.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tn.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/to.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/to.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tr.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tr.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tt.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tt.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tv.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tv.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tw.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tw.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tz.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/tz.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ua.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ua.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ug.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ug.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/um.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/um.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/un.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/un.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/us.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/us.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/uy.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/uy.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/uz.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/uz.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/va.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/va.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/vc.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/vc.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ve.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ve.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/vg.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/vg.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/vi.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/vi.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/vn.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/vn.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/vu.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/vu.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/wf.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/wf.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ws.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ws.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ye.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/ye.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/yt.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/yt.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/za.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/za.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/zm.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/zm.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/zw.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/flags/4x3/zw.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/admin-common.js" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/admin-common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/admin-common.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/admin-common.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/admin.js" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/admin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.js" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/vendors.js" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/js/vendors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/lib/pandora/class-am-dashboard-widget-extend-feed.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/assets/lib/pandora/class-am-dashboard-widget-extend-feed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/googleanalytics.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/googleanalytics.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/api-auth.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/api-auth.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/common.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/common.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/licensing/license-actions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/licensing/license-actions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/licensing/updater.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/licensing/updater.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/pages/settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/pages/settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/pages/tools.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/pages/tools.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/partials/header.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/partials/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/reports/abstract-report.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/reports/abstract-report.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/reports/overview.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/reports/overview.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/tracking.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/admin/tracking.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/api-request.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/api-request.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/frontend/events/class-analytics-events.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/frontend/events/class-analytics-events.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/frontend/tracking/class-tracking-analytics.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/frontend/tracking/class-tracking-analytics.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/helpers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/install.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/measurement-protocol.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/includes/measurement-protocol.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/languages/google-analytics-for-wordpress.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/languages/google-analytics-for-wordpress.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/lite/includes/admin/dashboard-widget.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/lite/includes/admin/dashboard-widget.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/lite/includes/load.php" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/lite/includes/load.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/google-analytics-for-wordpress/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/compat/js/siteorigin-panels-layout-block.js" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/compat/js/siteorigin-panels-layout-block.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/compat/js/siteorigin-panels-layout-block.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/compat/js/siteorigin-panels-layout-block.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/compat/layout-block.php" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/compat/layout-block.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/css/admin.css" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/css/admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/css/admin.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/css/admin.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/renderer.php" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/renderer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/sidebars-emulator.php" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/sidebars-emulator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/styles-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/styles-admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/widget-shortcode.php" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/widget-shortcode.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/widgets/post-loop.php" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/inc/widgets/post-loop.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/lang/siteorigin-panels.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/lang/siteorigin-panels.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/siteorigin-panels.php" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/siteorigin-panels.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/tpl/js-templates.php" afterPath="$PROJECT_DIR$/wp-content/plugins/siteorigin-panels/tpl/js-templates.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/header-front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/header-front-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/main.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/wflogs/attack-data.php" afterPath="$PROJECT_DIR$/wp-content/wflogs/attack-data.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/wflogs/config-livewaf.php" afterPath="$PROJECT_DIR$/wp-content/wflogs/config-livewaf.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/wflogs/config-synced.php" afterPath="$PROJECT_DIR$/wp-content/wflogs/config-synced.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/wflogs/config-transient.php" afterPath="$PROJECT_DIR$/wp-content/wflogs/config-transient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/wflogs/config.php" afterPath="$PROJECT_DIR$/wp-content/wflogs/config.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -479,51 +28,55 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="108" column="12" lean-forward="false" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="418">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="330">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1548594945177" expanded="true" signature="43:440" ph="..." />
+                <marker date="1548594945177" expanded="true" signature="78:432" ph="..." />
+                <marker date="1548594945177" expanded="true" signature="264:420" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php">
+      <file leaf-file-name="_footer.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_footer.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="132">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header-front-page.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/header-front-page.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="330">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -532,7 +85,7 @@
       <file leaf-file-name="_home.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="550">
               <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
               <folding />
             </state>
@@ -552,8 +105,8 @@
       <file leaf-file-name="_header.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="132">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -589,10 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/inhere_theme01/scss/components/typography.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inhere_theme01/scss/components/_buttons.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inhere_theme01/scss/components/_nav.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inhere_theme01/scss/components/_colors.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inhere_theme01/bootstrap-4.1.3/scss/_type.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inhere_theme01/scss/style.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inhere_theme01/package.json" />
@@ -634,12 +183,16 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/package.json" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/package-lock.json" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/.gitignore" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/header-front-page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/main.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_header.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/header-front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_header.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/main.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_footer.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_navigation.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/footer.php" />
       </list>
     </option>
   </component>
@@ -677,7 +230,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -769,111 +321,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="W005_InHereSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="W005_InHereSite" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inheretheme04" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="W005_InHereSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="W005_InHereSite" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inheretheme04" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="W005_InHereSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="W005_InHereSite" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inheretheme04" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -887,13 +338,14 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\W005_InHereSite\wp-content\themes\inheretheme03" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\W005_InHereSite\wp-content\themes\inheretheme04\src\scss\partials\components" />
       <recent name="C:\xampp\htdocs\W005_InHereSite\wp-content\themes\inheretheme04" />
       <recent name="C:\xampp\htdocs\W005_InHereSite\wp-content\themes\inheretheme04\src" />
       <recent name="C:\xampp\htdocs\W005_InHereSite\wp-content\themes\inheretheme03\src\scss\partials\components" />
+      <recent name="C:\xampp\htdocs\W005_InHereSite\wp-content\themes\inheretheme03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\W005_InHereSite\wp-content\themes\inheretheme03" />
     </key>
   </component>
@@ -993,18 +445,19 @@
       <workItem from="1546891251513" duration="124000" />
       <workItem from="1546891454145" duration="266000" />
       <workItem from="1547581665815" duration="3126000" />
-      <workItem from="1548524780366" duration="2966000" />
+      <workItem from="1548524780366" duration="5275000" />
+      <workItem from="1548586073195" duration="1984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87965000" />
+    <option name="totallyTimeSpent" value="92258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1720" y="-8" width="1552" height="850" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25134048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2546917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42817295" sideWeight="0.5053619" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1034,8 +487,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inhere_theme02/resources/assets/config.json" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inhere_theme02/resources/functions.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inhere_theme02/resources/views/index.blade.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inhere_theme02/resources/assets/scripts/main.js" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inhere_theme02/resources/views/partials/header.blade.php" />
@@ -1090,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1126,7 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="28" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1169,15 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1241,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1249,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1263,32 +701,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
+        <state relative-caret-position="2376">
           <caret line="108" column="12" lean-forward="false" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_navigation.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -1301,42 +715,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_header.scss">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="550">
+          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/header-front-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/footer-front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="240">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/header-front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="374">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="330">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1548594945177" expanded="true" signature="43:440" ph="..." />
+            <marker date="1548594945177" expanded="true" signature="78:432" ph="..." />
+            <marker date="1548594945177" expanded="true" signature="264:420" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
