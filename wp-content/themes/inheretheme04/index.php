@@ -4,21 +4,15 @@
 
         <main id="main" class="site-main" role="main">
 
-            <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+            <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
-                <header class="entry-header">
+                <?php get_template_part( 'template-parts/content' ); ?>
 
-                    <h1>Index.php</h1>
+            <?php endwhile; else : ?>
 
-                </header>
+                <?php get_template_part( 'template-parts/content', 'none' ); ?>
 
-                <div class="entry-content">
-
-                    <p>Yo mama</p>
-
-                </div>
-
-            </article>
+            <?php endif; ?>
 
             <p>source: index.php</p>
 
