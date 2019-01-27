@@ -14,8 +14,10 @@ Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-rea
 Theme for the InHere site
 */
 
-// bestand moet nog uitgebreid worden met beschikbare add-ons, maar voor nu volstaat dit
+//Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
 
+//WV
 @import "partials/fonts";
 @import "partials/color";
 
