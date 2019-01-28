@@ -3,6 +3,10 @@
         <a href="<?php the_permalink() ?>">
             <h2 class="news-title"><?php the_title(); ?></h2>
         </a>
+        <p class="news--byline">
+            <span class="news--author">by <?php the_author(); ?>, </span>
+            <span class="news--date"><?php the_date('jS F Y'); ?></span>
+        </p>
     </header>
 
     <div class="entry-content">
@@ -16,6 +20,6 @@
         <?php endif; ?>
 
         <p class="news--excerpt"><?php echo get_the_excerpt(); ?></p>
-        <p class="news--author"><?php the_author(); ?></p>
+
     </div>
 </article>

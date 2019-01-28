@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c27220b-d109-47e2-b1d0-74287c919572" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/archive-news.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/archive-news.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/single-news.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/single-news.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-news.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-news.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,8 +60,8 @@
       <file leaf-file-name="content-news.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-news.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="154">
+              <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#article#0;n#!!top" expanded="true" />
               </folding>
@@ -405,12 +404,12 @@
       <workItem from="1547581665815" duration="3126000" />
       <workItem from="1548524780366" duration="5275000" />
       <workItem from="1548586073195" duration="10503000" />
-      <workItem from="1548699496270" duration="3881000" />
+      <workItem from="1548699496270" duration="5112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104658000" />
+    <option name="totallyTimeSpent" value="105889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1720" y="-8" width="1552" height="850" extended-state="6" />
@@ -787,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-news.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="154">
+          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#article#0;n#!!top" expanded="true" />
           </folding>
