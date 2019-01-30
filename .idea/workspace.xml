@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c27220b-d109-47e2-b1d0-74287c919572" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/main.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_navigation.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_navigation.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,14 +70,24 @@
       <file leaf-file-name="_header.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="88">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_navigation.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_home.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_navigation.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_navigation.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="284">
@@ -160,7 +166,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/package.json" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/package-lock.json" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/.gitignore" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/header-front-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_footer.scss" />
@@ -180,8 +185,9 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/main.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/_grid.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_header.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_navigation.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_header.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss" />
       </list>
     </option>
   </component>
@@ -539,12 +545,12 @@
       <workItem from="1548524780366" duration="5275000" />
       <workItem from="1548586073195" duration="10503000" />
       <workItem from="1548699496270" duration="5711000" />
-      <workItem from="1548875188946" duration="3162000" />
+      <workItem from="1548875188946" duration="3736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109650000" />
+    <option name="totallyTimeSpent" value="110224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1720" y="-8" width="1552" height="850" extended-state="6" />
@@ -787,14 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-none.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -889,26 +887,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/_grid.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -925,6 +907,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding />
         </state>
       </provider>
