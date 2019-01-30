@@ -10,7 +10,11 @@
             <div class="footer_webdev_link">
                 <p>
                     site by
-                    <a href="https://www.wimverpoorten.com">Wim Verpoorten (logo komt hier en tekst verbergen maar houden voor screen readers</a>
+                    <a href="https://www.wimverpoorten.com" target="_blank" class="wv-link">
+
+                        <img src="<?php echo get_bloginfo('template_url'); ?>/img/Logo_inheresite_design02_orange.png" alt="wim-verpoorten-logo" class="wim-verpoorten-logo">
+
+                    </a>
                 </p>
             </div>
         </div>
