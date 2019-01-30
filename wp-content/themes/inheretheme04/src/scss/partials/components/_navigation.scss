@@ -1,17 +1,21 @@
 .c-nav--top {
   z-index: 10;
-  position: absolute;
-  top: 20px;
-  right: 50px;
+  float: right;
+  margin-top: 18px;
 
   .menu-top-navigation-container {
 
     ul {
       display: flex;
+      padding-left: 0;
 
       li {
         list-style: none;
-        margin-left: 50px;
+        margin-left: 20px;
+
+        @media (min-width: 960px) {
+          margin-left: 50px;
+        }
 
         a:link,
         a:visited,
@@ -36,23 +40,12 @@
   }
 }
 
-@media(max-width: 750px) {
-  .c-nav--top {
-    .menu-top-navigation-container {
-      ul {
-        li {
-          margin-left: 25px;
-        }
-      }
-    }
-  }
-}
-
 body button#responsive-menu-button,
 body button#responsive-menu-button:hover,
 .responsive-menu-open body button#responsive-menu-button,
 .responsive-menu-open body button#responsive-menu-button:hover {
   background-color: transparent;
+  margin-top: -10px;
 }
 
 body #responsive-menu-container {
@@ -62,7 +55,7 @@ body #responsive-menu-container {
     background-color: transparent;
 
     #responsive-menu {
-      background-color: transparent;
+      background-color: $darkblue;
       padding-top: 80px;
 
       .menu-item {
@@ -94,4 +87,8 @@ body button#responsive-menu-button:hover .responsive-menu-inner,
 body button#responsive-menu-button:hover .responsive-menu-inner:before,
 body button#responsive-menu-button:hover .responsive-menu-inner:after {
   background-color: $lightorange;
+}
+
+body.home #responsive-menu-container #responsive-menu-wrapper #responsive-menu {
+  background-color: transparent;
 }
