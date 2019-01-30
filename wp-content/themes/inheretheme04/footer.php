@@ -3,14 +3,16 @@
     </div> <!-- end of content -->
 
     <footer class="site-footer">
-        <div class="footer_copyright">
-            <p>2019 InHere</p>
-        </div>
-        <div class="footer_webdev_link">
-            <p>
-                site by
-                <a href="https://www.wimverpoorten.com">Wim Verpoorten (logo komt hier en tekst verbergen maar houden voor screen readers</a>
-            </p>
+        <div class="container-max">
+            <div class="footer_copyright">
+                <p><span id="current_year">JAAR</span> InHere</p>
+            </div>
+            <div class="footer_webdev_link">
+                <p>
+                    site by
+                    <a href="https://www.wimverpoorten.com">Wim Verpoorten (logo komt hier en tekst verbergen maar houden voor screen readers</a>
+                </p>
+            </div>
         </div>
     </footer>
 

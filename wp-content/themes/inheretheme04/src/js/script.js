@@ -1,10 +1,9 @@
-$(document).ready(function() {
+(function($) {
 
-    var changeThis = document.getElementById("jschange");
-    changeThis.innerHTML = "Gold!";
-    changeThis.style.color = "blue";
-    changeThis.style.fontWeightr = "bold";
-    changeThis.style.fontSize = "60px";
-    console.log("howdy partner!");
-});
+    /* huidig jaartal in footer */
+    var thisDate = new Date();
+    var thisYear = thisDate.getFullYear();
+    $("#current_year").html(thisYear);
+
+})(jQuery);
 
