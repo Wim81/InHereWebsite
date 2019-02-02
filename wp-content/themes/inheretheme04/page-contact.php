@@ -2,26 +2,17 @@
 
     <div id="primary" class="content-area">
 
-        <main id="main" class="site-main" role="main">
+        <main id="main" class="site-main pt-5 pt-md-7" role="main">
 
             <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
-                <?php get_template_part( 'template-parts/content' ); ?>
-
-                <?php // the_meta(); ?>
-                <?php
-                    $image_contact = get_field('main_image');
-                    $image_contact_url = $image_contact['url'];
-                ?>
-                <img src="<?php echo $image_contact_url ?>" alt="inhere-about-image">
+                <?php get_template_part( 'template-parts/content', 'contact' ); ?>
 
             <?php endwhile; else : ?>
 
                 <?php get_template_part( 'template-parts/content', 'none' ); ?>
 
             <?php endif; ?>
-
-            <p>source: page-contact.php</p>
 
         </main>
 
