@@ -28,7 +28,7 @@ var paths = {
         src: "src/img/**/*.{jpg,png,gif,svg}",
         dest: "img/"
     },
-    content: "./*.{html,php}"
+    content: "./**/*.{html,php}"
 };
 
 // Define tasks after requiring dependencies

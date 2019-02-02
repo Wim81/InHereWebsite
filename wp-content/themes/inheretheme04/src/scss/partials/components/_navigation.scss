@@ -23,7 +23,7 @@
         a:active {
           color: $white;
           text-decoration: none;
-          font-family: ihFont;
+          font-family: ihFontBlack, sans-serif;
           font-size: 20px;
           text-transform: uppercase;
           transition: all 0.3s ease-in;
@@ -55,6 +55,7 @@ body #responsive-menu-container {
     background-color: transparent;
 
     #responsive-menu {
+      font-family: ihFontBlack, sans-serif;
       background-color: $darkblue;
       padding-top: 80px;
 

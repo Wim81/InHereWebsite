@@ -2,26 +2,17 @@
 
     <div id="primary" class="content-area">
 
-        <main id="main" class="site-main" role="main">
+        <main id="main" class="site-main pt-5 pt-md-7" role="main">
 
             <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
-                <?php get_template_part( 'template-parts/content' ); ?>
-
-                <?php // the_meta(); ?>
-                <?php
-                    $image_about = get_field('main_image');
-                    $image_about_url = $image_about['url'];
-                ?>
-                <img src="<?php echo $image_about_url ?>" alt="inhere-about-image">
+                <?php get_template_part( 'template-parts/content', 'about' ); ?>
 
             <?php endwhile; else : ?>
 
                 <?php get_template_part( 'template-parts/content', 'none' ); ?>
 
             <?php endif; ?>
-
-            <p>source: page-about.php</p>
 
         </main>
 

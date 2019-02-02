@@ -14,6 +14,9 @@ Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-rea
 Theme for the InHere site
 */
 
+//WV variables
+@import "partials/variables";
+
 //Bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
 
@@ -21,6 +24,8 @@ Theme for the InHere site
 @import "partials/grid";
 @import "partials/fonts";
 @import "partials/color";
+@import "partials/general";
+@import "partials/page";
 
 //Components
 @import "partials/components/home";
