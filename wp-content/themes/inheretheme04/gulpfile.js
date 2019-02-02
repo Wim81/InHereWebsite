@@ -20,7 +20,6 @@ var paths = {
         // Compiled files will end up in whichever folder it's found in (partials are not compiled)
         dest: "./"
     },
-    html: "./*.html",
     scripts: {
         src: "src/js/**/*.js",
         dest: "./"
@@ -28,7 +27,8 @@ var paths = {
     images: {
         src: "src/img/**/*.{jpg,png,gif,svg}",
         dest: "img/"
-    }
+    },
+    content: "./*.{html,php}"
 };
 
 // Define tasks after requiring dependencies
@@ -112,7 +112,7 @@ function watcher(){
     // gulp.watch takes in the location of the files to watch for changes
     // and the name of the function we want to run on change
     watch(paths.styles.src, style);
-    watch(paths.html, reload);
+    watch(paths.content, reload);
     watch(paths.scripts.src, script);
     watch(paths.images.src, images);
 }
