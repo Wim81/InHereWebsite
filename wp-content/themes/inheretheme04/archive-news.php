@@ -6,15 +6,13 @@
 
             <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
-                <?php get_template_part( 'template-parts/content', 'news' ); ?>
+                <?php get_template_part( 'template-parts/content', 'news-teaser' ); ?>
 
             <?php endwhile; else : ?>
 
                 <?php get_template_part( 'template-parts/content', 'none' ); ?>
 
             <?php endif; ?>
-
-            <p>source: archive-news.php</p>
 
         </main>
 
