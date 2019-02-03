@@ -5,5 +5,8 @@
     var thisYear = thisDate.getFullYear();
     $("#current_year").html(thisYear);
 
+    /* resize textarea contact form */
+    $('#your-message').autoResize();
+
 })(jQuery);
 
