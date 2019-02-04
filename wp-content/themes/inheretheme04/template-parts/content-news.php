@@ -1,33 +1,30 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                <header class="entry-header">
-                    <a href="<?php the_permalink() ?>">
-                        <h2 class="news-title"><?php the_title(); ?></h2>
-                    </a>
-                    <p class="news--byline">
-                        <span class="news--author">by <?php the_author(); ?>, </span>
-                        <span class="news--date"><?php the_date('jS F Y'); ?></span>
-                    </p>
+            <div class="col-12">
+                <header class="entry-header mb-3">
+                        <h1 class="news-title"><?php the_title(); ?></h1>
                 </header>
 
-                <div class="entry-content">
-                    <?php // the_post_thumbnail( 'full' ); ?>
-                    <?php // the_field('') ?>
+                <p class="news--byline mb-5">
+                    <span class="news--author">by <?php the_author(); ?>, </span>
+                    <span class="news--date"><?php the_date('jS F Y'); ?></span>
+                </p>
 
+
+                <div class="entry-content">
                     <?php
                         $image = get_field('news_item_image');
                     if ( !empty($image) ): ?>
-                        <img src="<?php echo $image; ?>" style="width: 150px;">
+                        <img src="<?php echo $image; ?>" class="col-5 news-item-img">
                     <?php endif; ?>
 
-                    <p class="news--excerpt"><?php echo get_the_excerpt(); ?></p>
+                    <p class="news--text mb-5"><?php echo get_the_content(); ?></p>
 
                 </div>
 
                 <div>
-                    <a href="#">back</a>
+                    <a href="<?php bloginfo('url'); ?>/news/" class="back-to-news fas fa-angle-double-left">back</a>
                 </div>
 
             </div>

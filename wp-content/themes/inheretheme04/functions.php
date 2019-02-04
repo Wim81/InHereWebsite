@@ -14,6 +14,7 @@ add_theme_support( 'starter-content' );
 
 // Load in CSS & JS
 function inhere04_enqueue_styles_scripts() {
+    wp_enqueue_style( 'font-awesome', get_stylesheet_directory_uri() . '/node_modules/@fortawesome/fontawesome-free/css/all.css', [], time(), 'all' );
     wp_enqueue_style( 'main-css', get_stylesheet_directory_uri() . '/style.css', [], time(), 'all' );
     wp_enqueue_script( 'textarea-resize-js', get_stylesheet_directory_uri() . '/textarea-resize.js', [], time(), 'all' );
     wp_enqueue_script( 'script-js', get_stylesheet_directory_uri() . '/script.js', [], time(), 'all' );
