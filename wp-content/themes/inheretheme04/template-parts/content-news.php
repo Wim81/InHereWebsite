@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12">
                 <header class="entry-header mb-3">
-                        <h1 class="news-title"><?php the_title(); ?></h1>
+                        <h1><?php the_title(); ?></h1>
                 </header>
 
                 <p class="news--byline mb-5">
