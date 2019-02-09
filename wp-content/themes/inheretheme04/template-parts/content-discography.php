@@ -49,24 +49,15 @@
                             $track_file = get_post_meta( $track->ID, 'file', true );
                             $track_file_location = wp_get_attachment_url($track_file);
 
-                            echo '<div>' . $track_file_location . '</div>';
+                            echo '<audio controls>';
+                                echo '<source src="' . $track_file_location . '">';
+                            echo'</audio>';
+
                             echo '<div>' . $track_rank . '</div>';
                             echo '<div>' . $track_title . '</div>';
                             echo '<div>' . $track_duration . '</div>';
                             }
                         echo '</div>';
-                    } ?>
-
-
-
-                    <div style="color:green;">
-                        <?php echo  ( print_r($this_album_tracks) ); ?>
-                    </div>
-
-                    <?php foreach ($this_album_tracks as $track) {
-                        echo esc_html__($track->post_title);
-                        echo '</br>';
-
                     } ?>
 
                 </div>
