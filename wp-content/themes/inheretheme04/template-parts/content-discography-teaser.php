@@ -1,13 +1,17 @@
-<div class="col-md-3 news-teaser">
+<div class="col-6 col-md-3 discography-teaser">
     <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-        <a href="<?php the_permalink() ?>" class="link-discography-item">
 
-            <?php
-            $image = get_field('front_image');
-            $image_url = $image['url'];
-            ?>
-            <img src="<?php echo $image_url; ?>">
+        <?php
+        $image = get_field('front_image');
+        $year = get_field('year');
+        $position = get_field('position_in_year');
+        ?>
 
+        <a href="<?php the_permalink() ?>" class="discography-teaser--link" style="background-image: url(<?php echo $image; ?>);">
+            <div class="discography-teaser--data">
+                <p class="discography-teaser--title"><?php the_title(); ?></p>
+                <p class="discography-teaser--year"><?php echo $year; ?></p>
+            </div>
         </a>
 
     </article>

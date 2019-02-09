@@ -21,8 +21,6 @@ function inhere04_enqueue_styles_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'inhere04_enqueue_styles_scripts' );
 
-
-
 // Register Manu Locations
 register_nav_menus([
     'top-nav'   => esc_html__( 'Top Navigation', 'inhere04' ),
@@ -30,3 +28,6 @@ register_nav_menus([
 ]);
 
 ?>
+
+
+
