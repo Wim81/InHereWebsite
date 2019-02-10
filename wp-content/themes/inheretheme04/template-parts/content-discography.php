@@ -47,14 +47,34 @@
                     $track_file = get_post_meta( $track->ID, 'file', true );
                     $track_file_location = wp_get_attachment_url($track_file); ?>
 
-                    <div class="single-track track-<?php echo $track->ID; ?> d-flex flex-row justify-content-between align-items-top">
+                    <div class="single-track track-listing track-<?php echo $track->ID; ?> d-flex flex-row justify-content-between align-items-top">
                         <audio controls class="single-track--audio">
                             <source src="<?php echo $track_file_location; ?>">
                         </audio>
 
-                        <div class="single-track--rank pl-3 pt-3"><?php echo $track_rank; ?></div>
-                        <div class="single-track--title pl-3 pt-3"><?php echo $track_title; ?></div>
-                        <div class="single-track--duration pl-3 pt-3 text-right"><?php echo $track_duration; ?></div>
+                        <div class="single-track--rank pl-3 pt-3">
+                            <?php
+                                if ($track_rank < 10) {
+                                    echo '0' . $track_rank . '.';
+                                } else {
+                                    echo $track_rank . '.';
+                                }
+                            ?>
+                        </div>
+
+                        <div class="single-track--title pl-3 pt-3">
+                            <?php echo $track_title; ?>
+                        </div>
+
+                        <div class="single-track--duration pl-3 pt-3 text-right">
+                            <?php
+                                if ( substr($track_duration, 1, 1) == "'" ) {
+                                    echo '0' . $track_duration;
+                                } else {
+                                    echo $track_duration;
+                                } ?>
+                        </div>
+
                     </div>
 
                     <?php endforeach; ?>
