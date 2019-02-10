@@ -48,9 +48,29 @@
                     $track_file_location = wp_get_attachment_url($track_file); ?>
 
                     <div class="single-track track-listing track-<?php echo $track->ID; ?> d-flex flex-row justify-content-between align-items-top">
+                        <!--
                         <audio controls class="single-track--audio">
                             <source src="<?php echo $track_file_location; ?>">
                         </audio>
+                        -->
+                        <div class="single-track--audio" style="border:1px solid red">
+                            <i class="fas fa-play"></i>
+                            <i class="fas fa-pause"></i>
+                            <span class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70"
+                                     aria-valuemin="0" aria-valuemax="100" style="width:70%">
+                                progbar
+                                </div>
+                            </span>
+                            <i class="fas fa-volume-down"></i>
+                            <span class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70"
+                                     aria-valuemin="0" aria-valuemax="100" style="width:70%">
+                                volbar
+                                </div>
+                            </span>
+                            <i class="fas fa-volume-up"></i>
+                        </div>
 
                         <div class="single-track--rank pl-3 pt-3">
                             <?php

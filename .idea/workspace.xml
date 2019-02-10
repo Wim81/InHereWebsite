@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c27220b-d109-47e2-b1d0-74287c919572" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/_fonts.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/_fonts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_discography-item.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_discography-item.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php" />
     </list>
@@ -30,13 +28,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-discography.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="content-discography.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="71" column="47" lean-forward="false" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
+            <state relative-caret-position="373">
+              <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
               <folding>
-                <marker date="1549812661763" expanded="true" signature="3384:3428" ph="..." />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#article#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#article#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#article#0;n#!!top" expanded="true" />
+                <marker date="1549817076323" expanded="true" signature="4509:4553" ph="..." />
               </folding>
             </state>
           </provider>
@@ -52,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_discography-item.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_discography-item.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_discography-item.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="86">
@@ -144,9 +145,9 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/archive-discography.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_discography-teaser.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/.gitignore" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_discography-item.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/_fonts.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_discography-item.scss" />
       </list>
     </option>
   </component>
@@ -542,12 +543,12 @@
       <workItem from="1549565066337" duration="3023000" />
       <workItem from="1549651134375" duration="3158000" />
       <workItem from="1549711654453" duration="21222000" />
-      <workItem from="1549798047211" duration="4419000" />
+      <workItem from="1549798047211" duration="7018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181974000" />
+    <option name="totallyTimeSpent" value="184573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1720" y="-8" width="1552" height="850" extended-state="6" />
@@ -900,14 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_discography-item.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -918,11 +911,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="71" column="47" lean-forward="false" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
+        <state relative-caret-position="373">
+          <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
           <folding>
-            <marker date="1549812661763" expanded="true" signature="3384:3428" ph="..." />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#article#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#article#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#article#0;n#!!top" expanded="true" />
+            <marker date="1549817076323" expanded="true" signature="4509:4553" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_discography-item.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
