@@ -56,18 +56,12 @@
                         <div class="single-track--audio" style="border:1px solid red">
                             <i class="fas fa-play"></i>
                             <i class="fas fa-pause"></i>
-                            <span class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="70"
-                                     aria-valuemin="0" aria-valuemax="100" style="width:70%">
-                                progbar
-                                </div>
+                            <span class="slidecontainer single-track--progress">
+                                <input type="range" min="1" max="100" value="50" class="slider">
                             </span>
                             <i class="fas fa-volume-down"></i>
-                            <span class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="70"
-                                     aria-valuemin="0" aria-valuemax="100" style="width:70%">
-                                volbar
-                                </div>
+                            <span class="slidecontainer single-track--volume">
+                                <input type="range" min="1" max="100" value="50" class="slider">
                             </span>
                             <i class="fas fa-volume-up"></i>
                         </div>
