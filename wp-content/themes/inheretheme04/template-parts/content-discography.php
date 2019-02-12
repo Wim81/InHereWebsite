@@ -53,17 +53,17 @@
                             <source src="<?php echo $track_file_location; ?>">
                         </audio>
                         -->
-                        <div class="single-track--audio" style="border:1px solid red">
-                            <i class="fas fa-play"></i>
-                            <i class="fas fa-pause"></i>
-                            <span class="slidecontainer single-track--progress">
+                        <div class="single-track--audio">
+                            <i class="fas fa-play play"></i>
+                            <!-- pause laten alterneren met play, heeft dus ook niet eigen markup nodig -->
+                            <i class="fas fa-pause pause d-none"></i>
+                            <!-- progress slider enkel tonen vanaf dat play is ingedrukt -->
+                            <span class="slidecontainer single-track--progress position d-none">
                                 <input type="range" min="1" max="100" value="50" class="slider">
                             </span>
-                            <i class="fas fa-volume-down"></i>
-                            <span class="slidecontainer single-track--volume">
-                                <input type="range" min="1" max="100" value="50" class="slider">
-                            </span>
-                            <i class="fas fa-volume-up"></i>
+                            <i class="fas fa-volume-down volume-down d-none"></i>
+                            <div class="volume-value d-none"></div>
+                            <i class="fas fa-volume-up volume-up d-none"></i>
                         </div>
 
                         <div class="single-track--rank pl-3 pt-3">
