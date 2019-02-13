@@ -48,22 +48,15 @@
                     $track_file_location = wp_get_attachment_url($track_file); ?>
 
                     <div class="single-track track-listing track-<?php echo $track->ID; ?> d-flex flex-row justify-content-between align-items-top">
-                        <!--
-                        <audio controls class="single-track--audio">
-                            <source src="<?php echo $track_file_location; ?>">
-                        </audio>
-                        -->
-                        <div class="single-track--audio">
-                            <i class="fas fa-play play"></i>
-                            <!-- pause laten alterneren met play, heeft dus ook niet eigen markup nodig -->
-                            <i class="fas fa-pause pause d-none"></i>
-                            <!-- progress slider enkel tonen vanaf dat play is ingedrukt -->
-                            <span class="slidecontainer single-track--progress position d-none">
+                        <div class="single-track--audio" data-id="<?php echo $track->ID; ?>">
+                            <i class="fas fa-play play" data-id="<?php echo $track->ID; ?>"></i>
+                            <span class="slidecontainer single-track--progress position d-none" data-id="<?php echo $track->ID; ?>">
                                 <input type="range" min="1" max="100" value="50" class="slider">
                             </span>
-                            <i class="fas fa-volume-down volume-down d-none"></i>
-                            <div class="volume-value d-none"></div>
-                            <i class="fas fa-volume-up volume-up d-none"></i>
+                            <i class="fas fa-volume-down volume-down d-none" data-id="<?php echo $track->ID; ?>"></i>
+                            <div class="volume-value d-none" data-id="<?php echo $track->ID; ?>"></div>
+                            <i class="fas fa-volume-up volume-up d-none" data-id="<?php echo $track->ID; ?>"></i>
+                            <div class="file d-none" data-id="<?php echo $track->ID; ?>"><?php echo $track_file_location; ?></div>
                         </div>
 
                         <div class="single-track--rank pl-3 pt-3">
