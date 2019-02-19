@@ -19,6 +19,8 @@
             </div>
         </div>
 
+        <?php the_content(); ?>
+
         <div class="entry-content mb-5">
 
             <?php $this_album_tracks = get_posts(array(
