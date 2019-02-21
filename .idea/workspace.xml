@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c27220b-d109-47e2-b1d0-74287c919572" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/02/inhere-dream-reset-01-dream_reset.m4a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2019/02/inhere-dream-reset-02-let_go.m4a" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,21 +17,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="content-discography.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="113" lean-forward="false" selection-start-line="23" selection-start-column="113" selection-end-line="23" selection-end-column="113" />
+              <folding>
+                <marker date="1550775630477" expanded="true" signature="795:818" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -124,10 +121,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/scss/partials/components/_discography-item.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/src/js/script.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/single-news.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php" />
         <option value="$PROJECT_DIR$/wp-admin/php.ini" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php" />
       </list>
     </option>
   </component>
@@ -444,12 +441,12 @@
       <workItem from="1550080770355" duration="7768000" />
       <workItem from="1550598482253" duration="3771000" />
       <workItem from="1550686954926" duration="1846000" />
-      <workItem from="1550771746721" duration="630000" />
+      <workItem from="1550771746721" duration="1365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204489000" />
+    <option name="totallyTimeSpent" value="205224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="1938" height="1060" extended-state="6" />
@@ -798,20 +795,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <marker date="1550604849317" expanded="true" signature="4191:4235" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="61" lean-forward="true" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -824,11 +819,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/front-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme04/template-parts/content-discography.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="506">
+          <caret line="23" column="113" lean-forward="false" selection-start-line="23" selection-start-column="113" selection-end-line="23" selection-end-column="113" />
+          <folding>
+            <marker date="1550775630477" expanded="true" signature="795:818" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
