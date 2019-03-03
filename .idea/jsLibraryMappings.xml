@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="W005_InHereSite/wp-content/themes/inhere_theme01/node_modules" />
+    <excludedPredefinedLibrary name="W005_InHereSite/wp-content/themes/inheretheme03/node_modules" />
+  </component>
+</project>
