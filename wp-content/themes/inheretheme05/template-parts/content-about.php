@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <header class="entry-header mb-5">
+                <header class="entry-header page-title mb-5">
                     <?php the_title( '<h1>', '</h1>' ); ?>
                 </header>
             </div>
