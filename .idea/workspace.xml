@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2c27220b-d109-47e2-b1d0-74287c919572" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-about.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-about.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="_page.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="94" column="3" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="94" selection-end-column="3" />
+            <state relative-caret-position="416">
+              <caret line="91" column="24" lean-forward="true" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -566,12 +565,12 @@
       <workItem from="1551379540863" duration="771000" />
       <workItem from="1551622228143" duration="7656000" />
       <workItem from="1551725949810" duration="7059000" />
-      <workItem from="1551806093331" duration="7590000" />
+      <workItem from="1551806093331" duration="8650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231981000" />
+    <option name="totallyTimeSpent" value="233041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1552" height="850" extended-state="6" />
@@ -969,8 +968,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="94" column="3" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="94" selection-end-column="3" />
+        <state relative-caret-position="416">
+          <caret line="91" column="24" lean-forward="true" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
           <folding />
         </state>
       </provider>
