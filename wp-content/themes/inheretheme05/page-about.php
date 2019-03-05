@@ -2,7 +2,7 @@
 
     <div id="primary" class="content-area">
 
-        <main id="main" class="site-main pt-5 pt-md-7" role="main">
+        <main id="main" class="site-main" role="main">
 
             <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
