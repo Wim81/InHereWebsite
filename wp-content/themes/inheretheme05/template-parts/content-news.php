@@ -1,10 +1,16 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-    <div class="container">
+    <div class="container content-container">
+
         <div class="row">
             <div class="col-12">
-                <header class="entry-header mb-3">
-                        <h1><?php the_title(); ?></h1>
+                <header class="entry-header page-title mb-5">
+                    <?php the_title( '<h1>', '</h1>' ); ?>
                 </header>
+            </div>
+        </div>
+
+        <div class="row content-box">
+            <div class="col-12">
 
                 <p class="news--byline mb-5">
                     <span class="news--author">by <?php the_author(); ?>, </span>
