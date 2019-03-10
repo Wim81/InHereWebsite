@@ -27,6 +27,12 @@ register_nav_menus([
     'test-nav'  => esc_html__( 'Test Navigation', 'inhere05' )
 ]);
 
+function wpdocs_custom_excerpt_length( $length ) {
+    return 40;
+}
+add_filter( 'excerpt_length', 'wpdocs_custom_excerpt_length', 999 );
+
+
 @ini_set( 'upload_max_size' , '64M' );
 @ini_set( 'post_max_size', '64M');
 @ini_set( 'max_execution_time', '300' );
