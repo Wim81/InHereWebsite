@@ -1,5 +1,5 @@
 <div class="col-md-6 news-teaser mb-4 pr-4">
-    <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+    <article id="post-<?php the_ID(); ?>" <?php post_class("content-box"); ?> >
         <a href="<?php the_permalink() ?>" class="link-news-item">
             <h2 class="news-title mb-0"><?php the_title(); ?></h2>
         </a>
