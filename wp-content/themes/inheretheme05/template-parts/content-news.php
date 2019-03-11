@@ -3,20 +3,19 @@
 
         <div class="row">
             <div class="col-12">
-                <header class="entry-header page-title mb-5">
-                    <?php the_title( '<h1>', '</h1>' ); ?>
+                <header class="entry-header page-title mb-4">
+                    <?php the_title( '<h1 class="news-title">', '</h1>' ); ?>
                 </header>
             </div>
         </div>
 
+        <p class="news--byline mb-4">
+            <span class="news--author">by <?php the_author(); ?>, </span>
+            <span class="news--date"><?php the_date('jS F Y'); ?></span>
+        </p>
+
         <div class="row content-box">
             <div class="col-12">
-
-                <p class="news--byline mb-5">
-                    <span class="news--author">by <?php the_author(); ?>, </span>
-                    <span class="news--date"><?php the_date('jS F Y'); ?></span>
-                </p>
-
 
                 <div class="entry-content">
                     <?php
@@ -28,12 +27,11 @@
                     <p class="news--text mb-5"><?php echo get_the_content(); ?></p>
 
                 </div>
-
-                <div>
-                    <a href="<?php bloginfo('url'); ?>/news/" class="back-to-news fas fa-angle-double-left">back</a>
-                </div>
-
             </div>
+        </div>
+
+        <div class="back-to-news--wrapper">
+            <a href="<?php bloginfo('url'); ?>/news/" class="back-to-news">back</a>
         </div>
     </div>
 </article>
