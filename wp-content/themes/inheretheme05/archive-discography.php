@@ -2,16 +2,18 @@
 
     <div id="primary" class="content-area">
 
-        <main id="main" class="site-main pt-5 pt-md-7 mb-12" role="main">
+        <main id="main" class="site-main" role="main">
 
-            <div class="container">
+            <div class="container content-container">
+
                 <div class="row">
-                    <div class="col-md-6">
-                        <header class="entry-header mb-5">
-                            <h1 class="discography-archive-title">Discography</h1>
+                    <div class="col-12">
+                        <header class="entry-header page-title mb-5">
+                            <h1>Discography</h1>
                         </header>
                     </div>
                 </div>
+
                 <div class="row no-gutters">
 
             <?php
