@@ -13,14 +13,119 @@
   }
 }
 
+/* DA PLAYER! */
 .audioigniter-root {
   margin-bottom: 45px;
 
-  .ai-type-full {
+  .ai-wrap {
     margin-bottom: 0;
+    background-color: $primary-transparent50;
+
+    .ai-control-wrap-thumb,
+    .ai-track-thumb {
+      display: none;
+    }
+
+    .ai-control-wrap-controls {
+      color: rgba(255, 255, 255, 0.5);
+
+      .ai-audio-control {
+        border-radius: 0;
+        background-color: rgba(255, 255, 255, 0.5);
+        color: $primary;
+        outline: none;
+        transition: all 0.2s ease-in-out;
+
+        svg {
+          fill: $primary;
+          height: 25px;
+          transition: all 0.2s ease-in-out;
+        }
+
+        &:hover {
+          background-color: $orange;
+
+          svg {
+            fill: $white;
+          }
+        }
+      }
+
+      .ai-track-title {
+        margin-bottom: 0;
+
+        span {
+          font-weight: bold;
+          font-size: 20px
+        }
+      }
+
+      .ai-audio-controls-progress {
+
+        .ai-track-progress-bar {
+          background-color: rgba(255, 255, 255, 0.2);
+
+          .ai-track-progress {
+            background-color: $orange;
+          }
+        }
+
+        .ai-track-time {
+          font-weight: bold;
+        }
+      }
+
+      .ai-btn {
+        background-color: rgba(255, 255, 255, 0.5);
+        color: $primary;
+        transition: all 0.2s ease-in-out;
+        outline: none;
+
+        svg {
+          fill: $primary;
+          transition: all 0.2s ease-in-out;
+        }
+
+        &:hover {
+          background-color: $orange;
+
+          svg {
+            fill: $white;
+          }
+        }
+      }
+
+      .ai-volume-bar {
+        background-color: rgba(255, 255, 255, 0.5);
+
+        &:before {
+          background-color: $orange;
+        }
+      }
+    }
+
+    .ai-track {
+      background-color: rgba(255, 255, 255, 0.5);
+      color: $primary;
+
+      &-active {
+        background-color: $orange;
+        color: $white;
+      }
+    }
+
+    .ai-scroll-wrap > div:last-child {
+      background-color: rgba(255, 255, 255, 0.2);
+      border-radius: 0 !important;
+
+      div {
+        background-color: $orange !important;
+      }
+    }
   }
 }
 
+/* BACK link */
 .back-to-discography--wrapper {
   text-align: center;
   margin-top: -1rem;
