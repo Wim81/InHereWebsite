@@ -1,13 +1,14 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-    <div class="container album-detail">
+    <div class="container content-container album-detail">
+
         <div class="row">
             <div class="col-12">
-                <header class="entry-header mb-5">
-                        <h1><?php the_title(); ?>
-                        </h1>
+                <header class="entry-header page-title mb-5">
+                    <?php the_title( '<h1 class="news-title">', '</h1>' ); ?>
                 </header>
             </div>
         </div>
+
         <div class="row mb-7">
             <div class="col-md-6">
                 <img src="<?php echo get_field('front_image'); ?>" alt="album cover" class="album-detail--image">
@@ -21,7 +22,9 @@
 
         <?php the_content(); ?>
 
-        <a href="<?php bloginfo('url'); ?>/discography/" class="back-to-discography fas fa-angle-double-left mt-4">back</a>
+        <div class="back-to-discography--wrapper">
+            <a href="<?php bloginfo('url'); ?>/news/" class="back-to-discography">back</a>
+        </div>
 
     </div>
 </article>
