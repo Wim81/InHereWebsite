@@ -14,7 +14,8 @@ $info-box-bg-color: #fffce6 !default;
 $info-box-border-color: #eeeac9 !default;
 $info-box-text-color: #948832 !default;
 $base-pad: 15px !default;
-$transition-time: .18s;
+$transition-time: .18s !default;
+$border-color: $lighter-grey !default;
 
 .sr-only {
 	@include sr-only;
@@ -296,6 +297,20 @@ $transition-time: .18s;
 	}
 }
 
+.ai-form-field-group {
+  padding: $base-pad;
+  border: 1px solid $border-color;
+  margin-bottom: $base-pad;
+
+  :last-child {
+    margin-bottom: 0;
+  }
+
+  &-title {
+    margin-top: 0;
+  }
+}
+
 .ai-form-field {
 	margin-bottom: $base-pad;
 
@@ -312,7 +327,8 @@ $transition-time: .18s;
 	input[type="password"],
 	input[type="number"],
 	input[type="tel"],
-	input[type="date"] {
+	input[type="date"],
+  textarea {
 		width: 100%;
 	}
 
@@ -321,6 +337,25 @@ $transition-time: .18s;
 		display: inline-block;
 		position: relative;
 		top: 1px;
+	}
+}
+
+.ai-module-settings {
+	.ai-form-field {
+		input[type="text"],
+		input[type="url"],
+		input[type="search"],
+		input[type="email"],
+		input[type="password"],
+		input[type="number"],
+		input[type="tel"],
+		input[type="date"],
+	  textarea,
+		select {
+			width: 200px;
+			max-width: 100%;
+			display: block;
+		}
 	}
 }
 

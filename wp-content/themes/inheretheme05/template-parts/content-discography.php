@@ -23,7 +23,7 @@
         <?php the_content(); ?>
 
         <div class="back-to-discography--wrapper">
-            <a href="<?php bloginfo('url'); ?>/news/" class="back-to-discography">back</a>
+            <a href="<?php bloginfo('url'); ?>/discography/" class="back-to-discography">back</a>
         </div>
 
     </div>
