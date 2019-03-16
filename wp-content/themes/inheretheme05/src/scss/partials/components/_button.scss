@@ -1,0 +1,23 @@
+.btn {
+  font-family: ihFontTitle;
+  color: $primary;
+  background-color: $white;
+  text-transform: uppercase;
+  font-size: $font-size-lg;
+  border-radius: 10px;
+
+  &-white {
+    margin-top: 2rem;
+
+    &:hover {
+      color: $white;
+      background: url('img/inhere_gradient-title.jpg');
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+    }
+  }
+}
+
+.c-home__content--buttons a {
+  font-size: 0;
+}

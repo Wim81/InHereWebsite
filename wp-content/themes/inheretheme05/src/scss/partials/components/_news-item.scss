@@ -1,0 +1,35 @@
+.news--byline {
+  font-family: ihFontText;
+  font-size: 32px;
+  color: $white;
+  opacity: 0.75;
+}
+
+.news-item-img {
+  float: right;
+  padding-right: 0;
+  padding-bottom: 15px;
+}
+
+.back-to-news--wrapper {
+  text-align: center;
+  margin-top: -1rem;
+}
+
+.back-to-news:link,
+.back-to-news:visited,
+.back-to-news:hover,
+.back-to-news:active {
+  color: $white;
+  font-family: ihFontTitle;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 36px;
+  text-decoration: none;
+  transition: 0.2s all ease-in-out;
+}
+
+.back-to-news:hover {
+  cursor: pointer;
+  color: $orange;
+}

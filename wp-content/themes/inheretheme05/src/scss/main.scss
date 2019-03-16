@@ -1,0 +1,39 @@
+// main.scss
+
+/*!
+Theme Name: Inheretheme05
+Author: Wim Verpoorten
+Author URI: https://www.wimverpoorten.com
+Description: theme for the InHere site
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: inhere05
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+Theme for the InHere site
+*/
+
+//WV variables
+@import "partials/variables";
+
+//Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+//WV
+@import "partials/grid";
+@import "partials/fonts";
+@import "partials/general";
+@import "partials/page";
+
+//Components
+@import "partials/components/home";
+@import "partials/components/header";
+@import "partials/components/footer";
+@import "partials/components/navigation";
+@import "partials/components/form";
+@import "partials/components/button";
+@import "partials/components/news-item";
+@import "partials/components/news-teaser";
+@import "partials/components/discography-item";
+@import "partials/components/discography-teaser";

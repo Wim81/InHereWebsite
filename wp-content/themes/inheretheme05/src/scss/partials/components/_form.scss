@@ -1,0 +1,26 @@
+.form-container {
+  form {
+
+    label {
+      display: none;
+    }
+
+    span {
+      display: block;
+
+      input, textarea {
+        width: 100%;
+        background-color: transparent;
+        border: none;
+        color: $white;
+        border-bottom: 2px solid $white;
+        outline: none;
+        resize: none;
+
+        &::-webkit-input-placeholder {
+          color: rgba(255, 255, 255, 0.5);
+        }
+      }
+    }
+  }
+}

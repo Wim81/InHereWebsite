@@ -1,0 +1,109 @@
+.news-teaser {
+  margin-bottom: 45px;
+
+  .news-title {
+    font-family: ihFontText, sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    color: $white;
+    opacity: 0.75;
+    z-index: 25;
+    position: relative;
+  }
+
+  .news--byline {
+    font-family: ihFontText, sans-serif;
+    font-size: 18px;
+    color: $white;
+    z-index: 25;
+    position: relative;
+
+    span {
+      opacity: 0.75;
+    }
+  }
+
+  .entry-content {
+    display: inline-block;
+    z-index: 25;
+    position: relative;
+  }
+
+  img {
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    width: 40%;
+    min-width: 150px;
+  }
+
+  &--right {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .news--excerpt {
+    margin-bottom: 40px;
+    flex: 1;
+    font-family: ihFontText, sans-serif;
+    font-size: 24px;
+    color: $white;
+    opacity: 0.75;
+  }
+
+  .readmore {
+    margin-bottom: 40px;
+    font-family: ihFontTitle, sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    color: $white;
+    opacity: 0.15;
+  }
+}
+
+.content-box-news-teaser {
+  position: relative;
+
+  .content-box--inner {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 20;
+    text-decoration: none;
+    background-image: url('img/inhere_gradient-title.jpg');
+    background-size: 100% 100%;
+    transition: 0.2s all ease-in-out;
+    opacity: 0;
+
+    .news-title,
+    .news--byline span,
+    .news--excerpt,
+    .readmore {
+      transition: 0.2s all ease-in-out;
+    }
+  }
+}
+
+.link-news-item {
+  transition: 0.2s all ease-in-out;
+
+  &:hover {
+    text-decoration: none;
+
+    .content-box--inner {
+      opacity: 1;
+    }
+
+    .news-title,
+    .news--byline span,
+    .news--excerpt,
+    .readmore {
+      opacity: 1;
+      text-decoration: none;
+    }
+  }
+
+}

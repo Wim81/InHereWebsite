@@ -1,0 +1,39 @@
+
+/* TO BE DELETED */
+@font-face {
+  font-family: ihFontBlack;
+  src: url('font/ASHBBL_.ttf');
+}
+
+@font-face {
+  font-family: ihFontMedium;
+  src: url('font/Hallo_sans.otf');
+}
+/* End of TO BE DELETED */
+
+
+@font-face {
+  font-family: ihFontTitle;
+  src: url('font/RussoOne-Regular.ttf');
+}
+
+@font-face {
+  font-family: ihFontText;
+  src: url('font/Play-Regular.ttf');
+}
+
+@font-face {
+  font-family: ihFontTextBold;
+  src: url('font/Play-Bold.ttf');
+}
+
+p, a {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.track-listing {
+  font-size: 1.6rem;
+  line-height: 1.8;
+}

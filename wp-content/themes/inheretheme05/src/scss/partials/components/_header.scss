@@ -1,0 +1,33 @@
+.site-header {
+  background-color: transparent;
+  height: 70px;
+  position: relative;
+  z-index: 5;
+}
+
+body.home .site-header {
+  background-color: transparent;
+}
+
+.header-logo-link {
+  display: block;
+  float: left;
+  padding-top: 12px;
+  width: 175px;
+}
+
+.header-logo {
+  width: 175px;
+}
+
+/* hide header logo link on home page */
+body.home .header-logo-link {
+  display: none;
+}
+
+/* hide header logo link on smaller screens */
+@media (max-width: 840px) {
+  .header-logo-link {
+    display: none;
+  }
+}

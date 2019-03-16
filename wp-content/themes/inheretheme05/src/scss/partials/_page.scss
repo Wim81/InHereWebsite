@@ -1,0 +1,128 @@
+html {
+  background: url('img/inhere_home_hero2.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+
+  &:not(.home) {
+
+    #page {
+      display: flex;
+      min-height: 100%;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    }
+}
+
+.site-content {
+
+}
+
+.content-area {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+
+  font-family: ihFontText, sans-serif;
+
+  .entry-header {
+    text-transform: uppercase;
+    font-family: ihFontTitle, sans-serif;
+  }
+
+}
+
+.page-title {
+  border-bottom: 10px solid $white;
+  border-image-source: url('img/inhere_gradient-title.jpg');
+  border-image-slice: 20;
+
+  @media (max-width: 991px) {
+    border-bottom: 8px solid $white;
+  }
+
+  @media (max-width: 767px) {
+    border-bottom: 4px solid $white;
+  }
+
+  h1 {
+    background: url('img/inhere_gradient-title.jpg') no-repeat center center;
+    background-size: 100% 100%;
+    background-clip: text;
+    color: transparent;
+    font-size: 5rem;
+    line-height: 4.5rem;
+    margin-bottom: 0;
+
+    @media (max-width: 991px) {
+      font-size: 4rem;
+      line-height: 3.5rem;
+    }
+
+    @media (max-width: 767px) {
+      font-size: 2rem;
+      line-height: 1.8rem;
+    }
+  }
+}
+
+.content-container {
+  // background-color: rgba(255, 255, 255, 0.5);  // to be deleted later
+  padding: 60px;
+}
+
+.content-box {
+  background-color: $primary-transparent50;
+  padding: 40px 30px;
+  margin: 0px 0px 45px 0px;
+  height: 100%;
+
+  &-about,
+  &-news-teaser {
+    padding-bottom: 0;
+  }
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+
+  p {
+    font-family: ihFontText, sans-serif;
+    opacity: 0.75;
+  }
+}
+
+.about {
+
+  &-img {
+    width: 50%;
+    margin-bottom: 40px;
+
+    @media (max-width: 767px) {
+      width: 100%;
+    }
+
+    &-right {
+      float: right;
+      margin-left: 40px;
+    }
+
+    &-left {
+      float: left;
+      margin-right: 40px;
+    }
+  }
+
+  &-text {
+    margin-bottom: 40px;
+  }
+}
+
+
+
