@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c27220b-d109-47e2-b1d0-74287c919572" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_fonts.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_fonts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_page.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_page.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-contact.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-contact.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,11 +29,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_fonts.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_fonts.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_fonts.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="504">
+              <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/page-contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content-contact.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -106,7 +125,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_variables.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/page-about.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-about.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-contact.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_form.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/page-contact.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/archive-news.php" />
@@ -127,6 +145,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-item.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_page.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_fonts.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-contact.php" />
       </list>
     </option>
   </component>
@@ -228,6 +247,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="inheretheme05" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="W005_InHereSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="W005_InHereSite" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inheretheme05" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template-parts" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -481,12 +526,12 @@
       <workItem from="1552229246099" duration="7901000" />
       <workItem from="1552325738086" duration="5990000" />
       <workItem from="1552588309659" duration="2363000" />
-      <workItem from="1552746313812" duration="8288000" />
+      <workItem from="1552746313812" duration="8728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266085000" />
+    <option name="totallyTimeSpent" value="266525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1552" height="850" extended-state="6" />
@@ -695,21 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/page-contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/page-about.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -894,8 +924,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        <state relative-caret-position="504">
+          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/page-contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding />
         </state>
       </provider>
