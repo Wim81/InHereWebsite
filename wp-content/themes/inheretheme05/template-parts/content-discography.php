@@ -10,10 +10,10 @@
         </div>
 
         <div class="row mb-7">
-            <div class="col-md-6">
+            <div class="col-md-5">
                 <img src="<?php echo get_field('front_image'); ?>" alt="album cover" class="album-detail--image">
             </div>
-            <div class="col-md-6">
+            <div class="col-md-7">
                 <p class="album-detail--info">
                     <?php echo get_field('additional_info'); ?>
                 </p>

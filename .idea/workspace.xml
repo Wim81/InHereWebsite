@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c27220b-d109-47e2-b1d0-74287c919572" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-item.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-item.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-discography.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-discography.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +19,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_discography-teaser.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss">
+      <file leaf-file-name="_discography-item.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-item.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="286">
+              <caret line="112" column="7" lean-forward="true" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content-discography.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-discography.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="13" column="113" lean-forward="true" selection-start-line="13" selection-start-column="113" selection-end-line="13" selection-end-column="113" />
               <folding />
             </state>
           </provider>
@@ -103,8 +114,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/archive-discography.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/.gitignore" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/single-discography.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-discography.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-item.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_page.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_fonts.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-contact.php" />
@@ -115,6 +124,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_news-item.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-news.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-discography.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-item.scss" />
       </list>
     </option>
   </component>
@@ -563,12 +574,12 @@
       <workItem from="1552229246099" duration="7901000" />
       <workItem from="1552325738086" duration="5990000" />
       <workItem from="1552588309659" duration="2363000" />
-      <workItem from="1552746313812" duration="13634000" />
+      <workItem from="1552746313812" duration="15023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="271431000" />
+    <option name="totallyTimeSpent" value="272820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1552" height="850" extended-state="6" />
@@ -872,22 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-item.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-discography.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="25" column="58" lean-forward="false" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/_general.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -980,6 +975,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-discography.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="13" column="113" lean-forward="true" selection-start-line="13" selection-start-column="113" selection-end-line="13" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-item.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="112" column="7" lean-forward="true" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="7" />
           <folding />
         </state>
       </provider>
