@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c27220b-d109-47e2-b1d0-74287c919572" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/script.js" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/js/script.js" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_news-item.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_news-item.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_news-teaser.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_news-teaser.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-news-teaser.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-news-teaser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-news.php" afterPath="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-news.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,21 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_news-item.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_news-item.scss">
+      <file leaf-file-name="_discography-teaser.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content-news.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-news.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            <state relative-caret-position="330">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,7 +101,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_home.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_button.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/archive-discography.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/.gitignore" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/single-discography.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-discography.php" />
@@ -132,6 +114,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/js/script.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_news-item.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-news.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss" />
       </list>
     </option>
   </component>
@@ -580,12 +563,12 @@
       <workItem from="1552229246099" duration="7901000" />
       <workItem from="1552325738086" duration="5990000" />
       <workItem from="1552588309659" duration="2363000" />
-      <workItem from="1552746313812" duration="11911000" />
+      <workItem from="1552746313812" duration="13634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269708000" />
+    <option name="totallyTimeSpent" value="271431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1552" height="850" extended-state="6" />
@@ -865,14 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="45" column="12" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-about.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -985,6 +960,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_news-item.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -993,10 +976,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/template-parts/content-news.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/inheretheme05/src/scss/partials/components/_discography-teaser.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        <state relative-caret-position="330">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
