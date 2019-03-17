@@ -4,15 +4,12 @@
             <div class="content-box--inner"></div>
             <h2 class="news-title mb-2"><?php the_title(); ?></h2>
 
-            <p class="news--byline mb-5">
+            <p class="news--byline mb-4">
                 <span class="news--author">by <?php the_author(); ?>, </span>
                 <span class="news--date"><?php the_date('jS F Y'); ?></span>
             </p>
 
             <div class="entry-content">
-                <?php // the_post_thumbnail( 'full' ); ?>
-                <?php // the_field('') ?>
-
                 <?php
                 $image = get_field('news_item_image');
                 if ( !empty($image) ): ?>

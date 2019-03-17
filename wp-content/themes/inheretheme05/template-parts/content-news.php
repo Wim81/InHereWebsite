@@ -24,13 +24,13 @@
                         <img src="<?php echo $image; ?>" class="col-5 news-item-img">
                     <?php endif; ?>
 
-                    <p class="news--text mb-5"><?php echo get_the_content(); ?></p>
+                    <p class="news--text mb-4"><?php echo get_the_content(); ?></p>
 
                 </div>
             </div>
         </div>
 
-        <div class="back-to-news--wrapper">
+        <div class="back-to-news--wrapper mt-4">
             <a href="<?php bloginfo('url'); ?>/news/" class="back-to-news">back</a>
         </div>
     </div>
