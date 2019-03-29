@@ -12,7 +12,7 @@
 	var __ = i18n.__;
 	
 	registerBlockType( 'sowb/widget-block', {
-		title: __( 'SiteOrigin Widget (in beta)', 'so-widgets-bundle' ),
+		title: __( 'SiteOrigin Widget', 'so-widgets-bundle' ),
 		
 		description: __( 'Select a SiteOrigin widget from the dropdown.', 'so-widgets-bundle' ),
 		
@@ -26,6 +26,13 @@
 		},
 		
 		category: 'widgets',
+		
+		keywords: [sowbBlockEditorAdmin.widgets.reduce( function ( keywords, widgetObj ) {
+			if ( keywords.length > 0 ) {
+				keywords += ',';
+			}
+			return keywords + widgetObj.name;
+		}, '' )],
 		
 		supports: {
 			html: false,
@@ -84,11 +91,7 @@
 					} );
 					$mainForm.data( 'backupDisabled', true );
 					$mainForm.sowSetupForm();
-					if ( props.attributes.widgetData ) {
-						// If we call `setWidgetFormValues` with the last parameter ( `triggerChange` ) set to false,
-						// it won't show the correct values for some fields e.g. color and media fields.
-						sowbForms.setWidgetFormValues( $mainForm, props.attributes.widgetData );
-					} else {
+					if ( ! props.attributes.widgetData ) {
 						props.setAttributes( { widgetData: sowbForms.getWidgetFormValues( $mainForm ) } );
 					}
 					$mainForm.on( 'change', function () {
@@ -105,7 +108,7 @@
 			
 			function setupWidgetPreview() {
 				if ( ! props.previewInitialized ) {
-					$( window.sowb ).trigger( 'setup_widgets' );
+					$( window.sowb ).trigger( 'setup_widgets', { preview: true } );
 					props.setState( { previewInitialized: true } );
 				}
 			}
@@ -135,12 +138,18 @@
 							xhr.setRequestHeader( 'X-WP-Nonce', sowbBlockEditorAdmin.nonce );
 						},
 						data: {
-							widgetClass: props.attributes.widgetClass
+							widgetClass: props.attributes.widgetClass,
+							widgetData: props.attributes.widgetData,
 						}
 					} )
-					.then( function( widgetForm ) {
+					.done( function( widgetForm ) {
 						props.setState( { widgetFormHtml: widgetForm } );
-					} );
+					} )
+					.fail( function ( response ) {
+						var error = response.responseJSON;
+						
+						props.setState( { widgetFormHtml: '<div>' + error.message + '</div>', } );
+					});
 				}
 				
 				var widgetForm = props.widgetFormHtml ? props.widgetFormHtml : '';
@@ -207,12 +216,19 @@
 							widgetData: props.attributes.widgetData || {}
 						}
 					} )
-					.then( function( widgetPreview ) {
+					.done( function( widgetPreview ) {
 						props.setState( {
 							widgetPreviewHtml: widgetPreview,
 							previewInitialized: false,
 						} );
-					} );
+					} )
+					.fail( function ( response ) {
+						var error = response.responseJSON;
+						
+						props.setState( {
+							widgetPreviewHtml: '<div>' + error.message + '</div>',
+						} );
+					});
 				}
 				var widgetPreview = props.widgetPreviewHtml ? props.widgetPreviewHtml : '';
 				return [
