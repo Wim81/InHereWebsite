@@ -20,6 +20,8 @@
             </div>
         </div>
 
+        <div class="player-intro">Please note it may take a couple of seconds for the tracks to load, depending on your connection</div>
+
         <?php the_content(); ?>
 
         <div class="back-to-discography--wrapper">
