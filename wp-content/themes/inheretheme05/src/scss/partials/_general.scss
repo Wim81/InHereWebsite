@@ -8,3 +8,30 @@ html {
     color: $white;
   }
 }
+
+/* error & success messages */
+
+div.wpcf7-response-output {
+  text-align: center;
+  border-radius: 10px;
+  padding: 0.7em;
+  line-height: 1.2em;
+  background-color: red;
+  border: red;
+}
+
+div.wpcf7-validation-errors {
+
+}
+
+div.wpcf7-mail-sent-ok {
+  background-color: green;
+  border: green;
+}
+
+span.wpcf7-not-valid-tip {
+  color: white;
+  background-color: $orange;
+  padding: 0.5em;
+  font-size: 0.8rem;
+}
