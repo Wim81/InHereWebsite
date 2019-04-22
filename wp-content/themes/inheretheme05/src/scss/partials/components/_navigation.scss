@@ -33,7 +33,13 @@
 
         a:hover {
           color: $lightorange;
-          border-bottom: 4px solid $lightorange;
+        }
+
+        &.current-menu-item {
+          a {
+            color: $lightorange;
+            border-bottom: 4px solid $lightorange;
+          }
         }
       }
     }
