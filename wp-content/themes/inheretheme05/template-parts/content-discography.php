@@ -11,7 +11,7 @@
 
         <div class="row mb-7">
             <div class="col-md-5">
-                <img src="<?php echo get_field('front_image'); ?>" alt="album cover" class="album-detail--image">
+                <img src="<?php echo get_field('front_image_420'); ?>" alt="album cover" class="album-detail--image">
             </div>
             <div class="col-md-7">
                 <p class="album-detail--info">

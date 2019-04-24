@@ -2,7 +2,7 @@
     <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
         <?php
-        $image = get_field('front_image');
+        $image = get_field('front_image_245');
         $year = get_field('year');
         $position = get_field('position_in_year');
         ?>
