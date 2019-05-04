@@ -7,8 +7,8 @@
     "tar": "^4.4.8"
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.7.1",
-    "autoprefixer": "^9.3.1",
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "autoprefixer": "^9.5.1",
     "browser-sync": "^2.26.5",
     "cssnano": "^4.1.10",
     "gulp": "github:gulpjs/gulp",
@@ -17,8 +17,8 @@
     "gulp-postcss": "^8.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
-    "gulp-sourcemaps": "^2.6.4",
-    "gulp-uglify": "^3.0.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
     "gulp-watch": "^5.0.1"
   },
   "scripts": {
